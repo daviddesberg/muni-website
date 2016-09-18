@@ -14,7 +14,7 @@
             <div class="col-lg-12">
                 <h1>Contact</h1>
                 <p>
-                    We will provide the contact information shortly.
+                    We will provide contact information shortly.
                 </p>
             </div>
         </div>
