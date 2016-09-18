@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 text-center illinois-orange-text">
-                <a href="https://www.facebook.com/illinimun/?fref=ts"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a>
+                <a target="_blank" href="https://www.facebook.com/illinimun/?fref=ts"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a>
                 &nbsp;
-                <a href="https://www.instagram.com/illini_mun/"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i></a>
+                <a target="_blank" href="https://www.instagram.com/illini_mun/"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i></a>
                 &nbsp;
                 <a href="contact.php"><i class="fa fa-envelope fa-3x" aria-hidden="true"></i></a>
                 <hr>
