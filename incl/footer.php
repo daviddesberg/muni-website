@@ -2,11 +2,11 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 text-center illinois-orange-text">
-                <a href="#"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a>
+                <a href="https://www.facebook.com/illinimun/?fref=ts"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a>
                 &nbsp;
-                <a href="#"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i></a>
+                <a href="https://www.instagram.com/illini_mun/"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i></a>
                 &nbsp;
-                <a href="#"><i class="fa fa-envelope fa-3x" aria-hidden="true"></i></a>
+                <a href="contact.php"><i class="fa fa-envelope fa-3x" aria-hidden="true"></i></a>
                 <hr>
                 <h6>&copy; Copyright 2016 Model United Nations Illinois</h6>
             </div>
