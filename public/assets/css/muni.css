@@ -190,6 +190,25 @@ aside {
 
 }
 
+.committeeheader{
+    background-image: url('../images/follinger.jpg');
+}
+
+.registrationheader{
+    background-image: url('../images/almamater.jpg');
+
+}
+
+.sponsorshipheader{
+    background-image: url('../images/footballStadium.jpg');
+
+}
+
+.contactheader{
+    background-image: url('../images/squirel.jpg');
+
+}
+
 .imageheader .header-content .header-content-inner h1 {
     font-weight: 700;
     text-transform: uppercase;
