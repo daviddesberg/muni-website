@@ -148,7 +148,7 @@ aside {
     }
 }
 
-.mainheader {
+.imageheader {
     position: relative;
     width: 100%;
     min-height: auto;
@@ -157,28 +157,50 @@ aside {
     background-size: cover;
     -o-background-size: cover;
     background-position: center;
-    background-image: url('../images/maincover2.jpg');
     text-align: center;
     color: white;
 }
 
-.mainheader .header-content {
+.imageheader .header-content {
     position: relative;
     text-align: center;
     padding: 100px 15px 100px;
     width: 100%;
 }
-.mainheader .header-content .header-content-inner h1 {
+
+.mainheader {
+    background-image: url('../images/maincover2.jpg');
+}
+
+.secheader{
+    background-image: url('../images/team.jpg');
+}
+
+.whoweare{
+    background-image: url('../images/winterwonderland.jpg');
+}
+
+.hotelheader{
+    background-image: url('../images/hotel.jpg');
+
+}
+
+.scheduleheader{
+    background-image: url('../images/snowwalk.jpg');
+
+}
+
+.imageheader .header-content .header-content-inner h1 {
     font-weight: 700;
     text-transform: uppercase;
     margin-top: 0;
     margin-bottom: 0;
     font-size: 30px;
 }
-.mainheader .header-content .header-content-inner hr {
+.imageheader .header-content .header-content-inner hr {
     margin: 30px auto;
 }
-.mainheader .header-content .header-content-inner p {
+.imageheader .header-content .header-content-inner p {
     font-weight: 300;
     color: rgba(255, 255, 255, 0.7);
     font-size: 16px;
@@ -186,10 +208,10 @@ aside {
 }
 
 @media (min-width: 768px) {
-    .mainheader {
+    .imageheader {
         min-height: 100%;
     }
-    .mainheader .header-content {
+    .imageheader .header-content {
         position: absolute;
         top: 50%;
         -webkit-transform: translateY(-50%);
@@ -197,15 +219,15 @@ aside {
         transform: translateY(-50%);
         padding: 0 50px;
     }
-    .mainheader .header-content .header-content-inner {
+    .imageheader .header-content .header-content-inner {
         max-width: 1400px;
         margin-left: auto;
         margin-right: auto;
     }
-    .mainheader .header-content .header-content-inner h1 {
+    .imageheader .header-content .header-content-inner h1 {
         font-size: 50px;
     }
-    .mainheader .header-content .header-content-inner p {
+    .imageheader .header-content .header-content-inner p {
         font-size: 18px;
         max-width: 80%;
         margin-left: auto;

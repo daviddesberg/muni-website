@@ -1,8 +1,9 @@
 <?php require_once('../incl/header.php'); ?>
-<header id="mainheader">
+
+<header class="imageheader whoweare">
     <div class="header-content">
         <div class="header-content-inner">
-            <h1>Who We Are</h1>
+            <h1 id="main-heading"><span >WHO WE ARE</span></h1>
         </div>
     </div>
 </header>
@@ -11,7 +12,10 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <p>We're Dobis PR</p>
+                <h1>Who we are</h1>
+                <p>
+                content coming soon
+                </p>
             </div>
         </div>
     </div>
