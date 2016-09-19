@@ -19,5 +19,6 @@
             </div>
         </div>
     </div>
+</section>
 
-    <?php require_once('../incl/footer.php'); ?>
+<?php require_once('../incl/footer.php'); ?>
