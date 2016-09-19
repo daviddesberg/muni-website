@@ -18,11 +18,4 @@ $(function() {
     $('.navbar-collapse ul li a:not(.dropdown-toggle)').click(function() {
         $('.navbar-toggle:visible').click();
     });
-
-    // Offset for Main Navigation
-    $('#site-nav').affix({
-        offset: {
-            top: 100
-        }
-    });
 });

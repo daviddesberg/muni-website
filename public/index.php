@@ -41,4 +41,17 @@
     </div>
 </section>
 
-<?php require_once('../incl/footer.php'); ?>
+<?php
+$extra_bottom = <<<HERE
+    <script>
+    // Offset for Main Navigation
+    $(function() { $('#site-nav').affix({
+        offset: {
+            top: 100
+        }
+    }) });
+    </script>
+HERE;
+
+require_once('../incl/footer.php');
+?>
