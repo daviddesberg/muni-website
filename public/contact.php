@@ -14,7 +14,7 @@ if(isset($_POST['mail']) && $_POST['mail'] === 'mail') {
                 "Sender name: $name\r\n" .
                 "Sender email: $email\r\n\r\n" . $message
         ;
-        mail("tech@illinoismun.org", "MUNI XXII Contact Form Submission", $body, "From: tech@illinoismun.org\r\n");
+        mail("tech@illinoismun.org", "MUNI XXII Contact Form Submission", $body, "To: tech@illinoismun.org\r\nFrom: tech@illinoismun.org\r\n");
     }
 }
 ?>
