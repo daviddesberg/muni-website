@@ -1,3 +1,23 @@
+<?php
+$displayError = false;
+$displaySuccess = false;
+
+if(isset($_POST['mail']) && $_POST['mail'] === 'mail') {
+    $email = $_POST['email'];
+    $name = $_POST['name'];
+    $message = $_POST['message'];
+    if(empty($email) || empty($name) || empty($message) ) {
+        $displayError = true;
+    } else {
+        $displaySuccess = true;
+        $body = "MUNI XXII Contact Form Submission\r\n" .
+                "Sender name: $name\r\n" .
+                "Sender email: $email\r\n\r\n" . $message
+        ;
+        mail("tech@illinoismun.org", "MUNI XXII Contact Form Submission", $body, "From: tech@illinoismun.org\r\n");
+    }
+}
+?>
 <?php require_once('../incl/header.php'); ?>
 
 <header class="imageheader contactheader">
@@ -13,12 +33,19 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1>Contact</h1>
+                <?php if($displaySuccess) { ?>
+                    Thank you for your message. We will be in touch soon.
+                <?php }  else {?>
                 <h5>Send any inquiries below, and we'll get back to you as soon as possible.</h5>
-                <form class="form-horizontal">
+                <?php if($displayError) { ?>
+                    <h5 style="color:red;">All fields must be filled out.</h5>
+                <?php } ?>
+                <form class="form-horizontal" method="post" action="">
+                    <input type="hidden" value="mail" name="mail">
                     <div class="form-group">
                         <label for="input-name" class="col-sm-2 control-label">Name</label>
                         <div class="col-sm-10">
-                            <input type="text" class="form-control" id="input-name" placeholder="Name">
+                            <input type="text" name="name" class="form-control" id="input-name" placeholder="Name">
                         </div>
                     </div>
                     <div class="form-group">
@@ -39,6 +66,7 @@
                         </div>
                     </div>
                 </form>
+                <?php } ?>
             </div>
         </div>
     </div>
