@@ -14,7 +14,7 @@
             <div class="col-lg-12">
                 <h1>Hotel</h1>
                 <p>
-                    content coming soon
+                    Hotel information will be available soon.
                 </p>
             </div>
         </div>

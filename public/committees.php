@@ -14,7 +14,7 @@
             <div class="col-lg-12">
                 <h1>Committees</h1>
                 <p>
-                    The committee information will be released soon
+                    Committee list will be posted when available.
                 </p>
             </div>
         </div>

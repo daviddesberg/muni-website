@@ -14,7 +14,7 @@
             <div class="col-lg-12">
                 <h1>Secretariat</h1>
                 <p>
-                    content coming soon
+                    Secretariat list coming soon.
                 </p>
             </div>
         </div>

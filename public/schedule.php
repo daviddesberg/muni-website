@@ -14,7 +14,7 @@
             <div class="col-lg-12">
                 <h1>Schedule</h1>
                 <p>
-                    content coming soon
+                    The schedule will be added to this page when it is available!
                 </p>
             </div>
         </div>

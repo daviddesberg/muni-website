@@ -14,9 +14,13 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
+
                 <h1><span class="illinois-blue-text">Letter from the</span> <span class="illinois-orange-text">Secretary-General</span></h1>
                 <h4>Sunday, September 18, 2016</h4><br>
                 <div>
+                    <div class="pull-right" style="text-align:center; margin-left: 25px;">
+                        <img style="height: 350px;" alt="Stuart J. Polen" src="assets/images/stuart.jpg"><br>
+                    </div>
                     <p>
                     Prospective Advisors and Delegates,</p>
 

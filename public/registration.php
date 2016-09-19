@@ -14,7 +14,7 @@
             <div class="col-lg-12">
                 <h1>Registration</h1>
                 <p>
-                    You will be able to register shortly
+                    Registration info will be added to the site shortly.
                 </p>
             </div>
         </div>

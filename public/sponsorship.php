@@ -14,7 +14,7 @@
             <div class="col-lg-12">
                 <h1>Sponsorship</h1>
                 <p>
-                    You should see the information shortly
+                    Sponsorship information coming soon.
                 </p>
             </div>
         </div>
