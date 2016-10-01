@@ -56,7 +56,7 @@
                     <a href="committees.php">Committees</a>
                 </li>
                 <li>
-                    <a href="registration.php">Registration</a>
+                    <a href="http://advisornetwork.muni.illinoismun.org/register">Registration</a>
                 </li>
                 <li>
                     <a href="sponsorship.php">Sponsorship</a>
