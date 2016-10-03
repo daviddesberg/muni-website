@@ -5,7 +5,8 @@
         font-size: 22px;
     }
     .bio {
-
+        display: block;
+        padding-bottom: 18px;
     }
 </style>
 <header class="imageheader secheader">
