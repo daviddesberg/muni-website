@@ -12,7 +12,7 @@
 <header class="imageheader secheader">
     <div class="header-content">
         <div class="header-content-inner">
-            <h1 id="main-heading"><span >SECRETARIAT</span></h1>
+            <h1 id="main-heading"><span>SECRETARIAT</span></h1>
         </div>
     </div>
 </header>
