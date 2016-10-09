@@ -70,32 +70,27 @@
                     </tr>
                     <tr>
                         <td>Busing to Conference</td>
-                        <td>9:30am-10:30am</td>
+                        <td>8:00am-9:00am</td>
                         <td>Wyndham Garden to Campus</td>
                     </tr>
                     <tr>
-                        <td>Lunch</td>
-                        <td>10:30am-12:00pm</td>
-                        <td>Campus</td>
-                    </tr>
-                    <tr>
                         <td>Committee Session III</td>
-                        <td>12:00pm-2:30pm</td>
+                        <td>9:30am-12:30pm</td>
                         <td>David Kinley Hall/Wohlers Hall</td>
                     </tr>
                     <tr>
-                        <td>Advisor Banquet</td>
+                        <td>Lunch</td>
                         <td>12:30pm-1:30pm</td>
+                        <td>Campus</td>
+                    </tr>
+                    <tr>
+                        <td>Advisor Banquet</td>
+                        <td>12:30pm-1:45pm</td>
                         <td>TBD</td>
                     </tr>
                     <tr>
-                        <td>Delegate Break</td>
-                        <td>2:30pm-3:00pm</td>
-                        <td>&mdash;</td>
-                    </tr>
-                    <tr>
-                        <td>Committee Session III</td>
-                        <td>3:00pm-5:00pm</td>
+                        <td>Committee Session IV</td>
+                        <td>1:30pm-5:00pm</td>
                         <td>David Kinley Hall/Wohlers Hall</td>
                     </tr>
                     <tr>
@@ -104,7 +99,7 @@
                         <td>Campus</td>
                     </tr>
                     <tr>
-                        <td>Committee Session IV</td>
+                        <td>Committee Session V</td>
                         <td>7:00pm-10:00pm</td>
                         <td>David Kinley Hall/Wohlers Hall</td>
                     </tr>
