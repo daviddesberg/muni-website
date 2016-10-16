@@ -205,6 +205,8 @@ aside {
 
 .crisisgaheader {
     background-image: url('../images/sunrisething.jpg');
+    background-position: 50% calc(50% + 150px);
+    background-repeat: no-repeat;
 }
 
 .registrationheader{
