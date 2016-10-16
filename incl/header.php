@@ -52,9 +52,18 @@
                         <li><a href="hotel.php">Hotel</a></li>
                     </ul>
                 </li>
-                <li>
-                    <a href="committees.php">Committees</a>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                        Committees <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ga.php">General Assembly Committees</a></li>
+                        <li><a href="crisisga.php">Crisis GA Committees</a></li>
+                        <li><a href="crisis.php">Crisis Committees</a></li>
+                    </ul>
                 </li>
+
                 <li>
                     <a href="http://advisornetwork.muni.illinoismun.org/register">Registration</a>
                 </li>

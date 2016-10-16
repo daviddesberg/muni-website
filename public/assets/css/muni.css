@@ -35,6 +35,11 @@ h5,
 h6 {
     font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
 }
+
+.headerfont {
+    font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+}
+
 p {
     font-size: 16px;
     line-height: 1.5;
@@ -192,6 +197,15 @@ aside {
 
 .committeeheader{
     background-image: url('../images/follinger.jpg');
+}
+
+.crisisheader {
+    background-image: url('../images/enghall.jpg');
+}
+
+.crisisgaheader {
+    background-image: url('../images/sunrisething.jpg');
+    background-position: 0px -35px;
 }
 
 .registrationheader{
