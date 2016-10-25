@@ -40,6 +40,23 @@
         position: relative;
         z-index: 9 !important;
     }
+
+    @media screen and (-webkit-min-device-pixel-ratio: 0) {
+        .count-down li input {
+            margin-top: 60px !important;
+        }
+    }
+
+    @media only screen and (max-width: 1024px) {
+        .count-down li div,
+        .count-down li canvas {
+            width: 230px !important;
+            height: 230px !important;
+        }
+        .count-down li input {
+            margin: 36px 0 0 -193px !important;
+        }
+    }
 </style>
 <header class="imageheader crisisheader">
     <div class="header-content">
