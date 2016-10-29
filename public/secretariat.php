@@ -49,7 +49,7 @@ I am a junior at the University of Illinois pursuing a degree in Computer Scienc
                     </span><br>
                     <span class="secmember"><span class="illinois-blue-text">Pavel Tamas – </span><span class="illinois-orange-text">Undersecretary-General of Simulations</span></span><br>
                     <span class="bio">
-I am a senior studying Finance and Accountancy with a minor in History. This is the 6th year of my my Model United Nations career and the 4th MUNI I have staffed. In the past, I have worked as a Simulations Director, Chair and Crisis Staffer, so running the department was my last stop on the simulations path. I am proud to help bring to life seven excellent committees this year and I know my staff are equally excited to as well. When not taking part in Model United Nations, I enjoy practicing karate, watching college football and reading The Economist.
+I am a senior studying Finance and Accountancy with a minor in History. This is the 6th year of my Model United Nations career and the 4th MUNI I have staffed. In the past, I have worked as a Simulations Director, Chair and Crisis Staffer, so running the department was my last stop on the simulations path. I am proud to help bring to life seven excellent committees this year and I know my staff are equally excited to as well. When not taking part in Model United Nations, I enjoy practicing karate, watching college football and reading The Economist.
                     </span><br>
                     <span class="secmember"><span class="illinois-blue-text">Muhammad Yousuf – </span><span class="illinois-orange-text">President of the General Assembly</span></span><br>
                     <span class="bio">
