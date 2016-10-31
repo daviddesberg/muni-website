@@ -1,7 +1,3 @@
-
-
-
-
 <?php require_once('../incl/header.php'); ?>
 
 <header class="imageheader crisisheader">
