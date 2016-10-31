@@ -9,7 +9,7 @@
 </header>
 
 <style>
-    a {
+    #crisislinks a {
         color: black !important;
     }
 </style>
@@ -17,7 +17,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12" style="text-align: left;">
-                <table class="table" style="font-size: 36px; width: 100%;">
+                <table id="crisislinks" class="table" style="font-size: 36px; width: 100%;">
                     <tr>
                         <td><a href="crisispage.php?c=0">Kingdom of Heaven: The Court of Baldwin IV of Jerusalem</a></td>
                         <td><a href="crisispage.php?c=1">The Next Great City: The FIFA Executive Board Committee</a></td>
