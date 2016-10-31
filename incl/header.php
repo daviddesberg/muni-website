@@ -1,3 +1,9 @@
+<?php
+$crisispage = "crisis_countdown.php";
+if(time() >= 1477933200) {
+    $crisispage = "crisis.php";
+}
+?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -60,7 +66,7 @@
                     <ul class="dropdown-menu">
                         <li><a href="ga.php">General Assembly Committees</a></li>
                         <li><a href="crisisga.php">Crisis GA Committees</a></li>
-                        <li><a href="crisis.php">Crisis Committees</a></li>
+                        <li><a href="<?=$crisispage?>">Crisis Committees</a></li>
                     </ul>
                 </li>
 
