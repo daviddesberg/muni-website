@@ -28,7 +28,7 @@
                     </tr>
                     <tr>
                         <td><a href="crisispage.php?c=4">Independence: Nehru&#39;s Cabinet of 1947</a></td>
-                        <td><a><em>Ad Hoc</em> Committee of the Secretary-General</a></td>
+                        <td><a href="adhoc.php"><em>Ad Hoc</em> Committee of the Secretary-General</a</td>
                     </tr>
                     <tr>
                         <td><a href="crisispage.php?c=6">Island of Mystery: The Roanoke Colony</a></td>
