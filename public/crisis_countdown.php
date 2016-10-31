@@ -237,6 +237,15 @@ $(function() {
 $(function() {
     var release = moment.tz("2016-10-31 12:00", "America/Chicago");
     $(".count-down").ccountdown(2016,10,31,'12:00');
+    var cancel = false;
+    $(".second").change(function() {
+        if(cancel) { $(this).unbind(); return; }
+        // 1477933200
+        var a = Math.floor((new Date()).getTime() / 1000);
+        if(a >= 1477933200) {
+            location.href="crisis.php";
+        }
+    });
 });
 </script>
 HERE;
