@@ -24,7 +24,7 @@ $data = json_decode($data, true);
     <div class="container">
         <div class="row">
             <div class="col-lg-12" style="text-align: left;">
-                <h2>Description</h2>
+                <h3>Description</h3>
                 <p>
                 <?php echo $data['description']; ?>
                 </p>
