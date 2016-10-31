@@ -8,6 +8,11 @@
     </div>
 </header>
 
+<style>
+    a {
+        color: black !important;
+    }
+</style>
 <section>
     <div class="container">
         <div class="row">
@@ -34,3 +39,4 @@
         </div>
     </div>
 </section>
+<?php require_once('../incl/footer.php'); ?>
