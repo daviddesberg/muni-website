@@ -7,7 +7,11 @@
         </div>
     </div>
 </header>
-
+<style>
+    a.comlink {
+        color: black !important;
+    }
+</style>
 <section>
     <div class="container">
         <div class="row">
@@ -22,7 +26,7 @@
         <div class="row">
             <div class="col-lg-12" style="text-align: center;">
                 <span class="headerfont" style="font-size: 28px;">
-                    ILLINOIS GENERAL ASSEMBLY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1917 RUSSIAN DUMA
+                    <a class="comlink" href="gapage.php?c=ilga">ILLINOIS GENERAL ASSEMBLY</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="comlink" href="gapage.php?c=1917duma">1917 RUSSIAN DUMA</a>
                 </span>
             </div>
         </div>

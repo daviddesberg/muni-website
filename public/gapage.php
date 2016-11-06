@@ -6,17 +6,20 @@ if(isset($_GET['c'])) {
         die();
     }
 } else {
-    header('Location: crisis.php');
+    header('Location: ga.php');
     die();
 }
 // so shitty
-$data = file_get_contents("./committee_data/crisis/{$cid}.json");
+$data = file_get_contents("./committee_data/ga/{$cid}.json");
 $data = json_decode($data, true);
-
+$headerclass = "committeeheader";
+if($cid == "ilga" || $cid == "1917duma") {
+    $headerclass="crisisgaheader";
+}
 ?>
 <?php require_once('../incl/header.php'); ?>
 
-<header class="imageheader crisisheader">
+<header class="imageheader <?=$headerclass?>">
     <div class="header-content">
         <div class="header-content-inner">
             <h1 id="main-heading"><span><?php echo $data['title']; ?></span></h1>
@@ -27,11 +30,22 @@ $data = json_decode($data, true);
     <div class="container">
         <div class="row">
             <div class="col-lg-12" style="text-align: left;">
+                <h3>Director: <?php echo $data['director']; ?></h3>
+                <h3>Topics</h3>
+                <p>
+                <?php
+                foreach($data['topics'] as $i => $topic) {
+                    echo $topic;
+                    if($i < count($data['topics']) -1) {
+                        echo ', ';
+                    }
+                }
+                ?>
+                </p>
                 <h3>Description</h3>
                 <p>
-                <?php echo $data['description']; ?>
+                    <?php echo $data['description']; ?>
                 </p>
-                <h3>Crisis Director: <?php echo $data['director']; ?></h3>
                 <p>
                     <?php echo $data['bio']; ?>
                 </p>

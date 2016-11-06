@@ -8,14 +8,20 @@
     </div>
 </header>
 
+<style>
+    a.comlink {
+        color: black !important;
+    }
+</style>
 <section>
     <div class="container">
         <div class="row">
             <div class="col-lg-6" style="text-align: center;">
                 <p>
                     <ul style="list-style-type: none; font-size: 48px;" class="headerfont">
-                        <li>DISEC</li>
-                        <li>ECOSOC</li>
+                        <li><a class="comlink" href="gapage.php?c=disec">DISEC</a></li>
+                        <li><a class="comlink" href="gapage.php?c=ecosoc">ECOSOC</a></li>
+                        <li><a class="comlink" href="gapage.php?c=ecofin">ECOFIN</a></li>
                     </ul>
                 </p>
             </div>
@@ -23,8 +29,8 @@
                 <p>
 
                 <ul style="list-style-type: none; font-size: 48px;" class="headerfont">
-                    <li>WHO</li>
-                    <li>UNHRC</li>
+                    <li><a class="comlink" href="gapage.php?c=who">WHO</a></li>
+                    <li><a class="comlink" href="gapage.php?c=unhrc">UNHRC</a></li>
                 </ul>
                 </p>
             </div>
