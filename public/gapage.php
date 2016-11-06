@@ -35,10 +35,7 @@ if($cid == "ilga" || $cid == "1917duma") {
                 <p>
                 <?php
                 foreach($data['topics'] as $i => $topic) {
-                    echo $topic;
-                    if($i < count($data['topics']) -1) {
-                        echo ', ';
-                    }
+                   echo "Topic " . ($i+1) . ": $topic<br>";
                 }
                 ?>
                 </p>
