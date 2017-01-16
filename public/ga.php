@@ -13,29 +13,29 @@
         color: black !important;
     }
 </style>
+
 <section>
     <div class="container">
         <div class="row">
-            <div class="col-lg-6" style="text-align: center;">
-                <p>
-                    <ul style="list-style-type: none; font-size: 48px;" class="headerfont">
-                        <li><a class="comlink" href="gapage.php?c=disec">DISEC</a></li>
-                        <li><a class="comlink" href="gapage.php?c=ecosoc">ECOSOC</a></li>
-                        <li><a class="comlink" href="gapage.php?c=ecofin">ECOFIN</a></li>
-                    </ul>
-                </p>
-            </div>
-            <div class="col-lg-6" style="text-align: center;">
-                <p>
+            <div class="col-md-12" style="text-align: left;">
+                <table id="crisislinks" class="table" style="font-size: 36px; width: 100%;">
+                    <tr>
+                        <td><a class="comlink" href="gapage.php?c=disec">Disarmament and International Security Committee (DISEC)</a></td>
+                        <td><a class="comlink" href="gapage.php?c=ecosoc">Economic and Social Council (ECOSOC)</a></td>
+                    </tr>
+                    <tr>
+                        <td><a class="comlink" href="gapage.php?c=ecofin">Economic and Financial Affairs Council (ECOFIN)</a></td>
+                        <td><a class="comlink" href="gapage.php?c=who">World Health Organization (WHO)</a></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="text-align: center;"><a class="comlink" href="gapage.php?c=unhrc">United Nations Human Rights Council (UNHRC)</a></td>
 
-                <ul style="list-style-type: none; font-size: 48px;" class="headerfont">
-                    <li><a class="comlink" href="gapage.php?c=who">WHO</a></li>
-                    <li><a class="comlink" href="gapage.php?c=unhrc">UNHRC</a></li>
-                </ul>
-                </p>
+                    </tr>
+                </table>
             </div>
         </div>
     </div>
 </section>
+
 
 <?php require_once('../incl/footer.php'); ?>

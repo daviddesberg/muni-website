@@ -13,7 +13,7 @@
             <div class="col-lg-12" style="text-align: left;">
                 <h3><span class="illinois-blue-text">What is an <em>Ad Hoc</em><span class="illinois-orange-text"> Committee?</span></h3>
                 <p>
-                    The <em>Ad Hoc</em> Committee of the Secretary General (<em>Ad Hoc</em>) is a committee type that is typically offered on the conference circuit. While the <em>Ad Hoc</em> operates like most other crisis committees, it is designed to simulate crisis management and operating with minimal preparation. To do this, the research materials are released right before the conference so delegates must work quickly to build their policy. In short, the subject matter of an <em>Ad Hoc</em> Committee is supposed to be a surprise.
+                    The <em>Ad Hoc</em> Committee of the Secretary General (<em>Ad Hoc</em>) is a committee type that is not typically offered on the conference circuit. While the <em>Ad Hoc</em> operates like most other crisis committees, it is designed to simulate crisis management and operating with minimal preparation. To do this, the research materials are released right before the conference so delegates must work quickly to build their policy. In short, the subject matter of an <em>Ad Hoc</em> Committee is supposed to be a surprise.
                 </p>
                 <p>
                     If Model United Nations was a sport, then the <em>Ad Hoc</em> Committee is the Super Bowl. This committee is designed to challenge delegates who are well-versed in crisis committees and are no strangers to thinking on their feet and solving problems with minimal preparation.
