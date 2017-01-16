@@ -47,7 +47,7 @@
         }
     }
 
-    @media only screen and (max-width: 1024px) {
+    @media only screen and (max-width: 1280px) {
         .count-down li div,
         .count-down li canvas {
             width: 230px !important;
