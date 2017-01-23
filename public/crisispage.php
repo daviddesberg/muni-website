@@ -26,6 +26,11 @@ $data = json_decode($data, true);
 <section>
     <div class="container">
         <div class="row">
+            <div class="col-lg-12" style="text-align: center;">
+                <a href="assets/guides/<?=$cid?>.pdf" class="btn btn-primary" style="background-color: #002058;">Background Guide</a>
+            </div>
+        </div>
+        <div class="row">
             <div class="col-lg-12" style="text-align: left;">
                 <h3>Description</h3>
                 <p>
