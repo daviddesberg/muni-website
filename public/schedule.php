@@ -74,7 +74,7 @@
                         <td>Wyndham Garden to Campus</td>
                     </tr>
                     <tr>
-                        <td>Committee Session III</td>
+                        <td>Committee Session II</td>
                         <td>9:30am-12:30pm</td>
                         <td>David Kinley Hall/Wohlers Hall</td>
                     </tr>
@@ -89,7 +89,7 @@
                         <td>TBD</td>
                     </tr>
                     <tr>
-                        <td>Committee Session IV</td>
+                        <td>Committee Session III</td>
                         <td>1:30pm-5:00pm</td>
                         <td>David Kinley Hall/Wohlers Hall</td>
                     </tr>
@@ -99,7 +99,7 @@
                         <td>Campus</td>
                     </tr>
                     <tr>
-                        <td>Committee Session V</td>
+                        <td>Committee Session IV</td>
                         <td>7:00pm-10:00pm</td>
                         <td>David Kinley Hall/Wohlers Hall</td>
                     </tr>
