@@ -69,9 +69,11 @@ if(time() >= 1477933200) {
                         <li><a href="<?=$crisispage?>">Crisis Committees</a></li>
                     </ul>
                 </li>
-
                 <li>
                     <a href="http://advisornetwork.muni.illinoismun.org/register">Registration</a>
+                </li>
+                <li>
+                    <a href="http://advisornetwork.muni.illinoismun.org/">Advisor Network</a>
                 </li>
                 <li>
                     <a href="sponsorship.php">Sponsorship</a>
