@@ -67,6 +67,7 @@ if(time() >= 1477933200) {
                         <li><a href="ga.php">General Assembly Committees</a></li>
                         <li><a href="crisisga.php">Crisis GA Committees</a></li>
                         <li><a href="<?=$crisispage?>">Crisis Committees</a></li>
+                        <li><a href="http://advisornetwork.muni.illinoismun.org/positionpapers">Position Papers</a></li>
                     </ul>
                 </li>
                 <li>
