@@ -36,6 +36,7 @@ if($cid == "ilga" || $cid == "1917duma") {
         <div class="row">
             <div class="col-lg-12" style="text-align: left;">
                 <h3>Director: <?php echo $data['director']; ?></h3>
+                <h3>Email: <?php echo $data['email']; ?></h3>
                 <h3>Topics</h3>
                 <p>
                 <?php

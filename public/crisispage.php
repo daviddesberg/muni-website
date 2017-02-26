@@ -40,6 +40,7 @@ $data = json_decode($data, true);
                 <p>
                     <?php echo $data['bio']; ?>
                 </p>
+                <h3>Email: <?php echo $data['email']; ?></h3>
             </div>
         </div>
     </div>
