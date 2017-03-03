@@ -22,6 +22,7 @@
                     The background guide for the <em>Ad Hoc</em> Committee will be released on March 6, 2017 and delegate assignments will be released on March 9, 2017.
                 </p>
                 <h3>Crisis Director: Andrew Maikisch</h3>
+                <h3>Email: amaiki2@illinois.edu</h3>
                 <p>
                     My name is Andrew Maikisch, and I am a freshman studying Political Science. This is my first year both participating in Model United Nations and staffing a MUNI conference. I am proud to be the director of a committee in my first year, and I am determined to make it the best committee there has ever been. I intend to use my enthusiasm for my simulation to create a committee that is both educational and very enjoyable for the delegates. Beyond the Model United Nations meetings, I spend my time cheering for the Capitals, playing League of Legends, and keeping up with the burning mess that is current American politics.
                 </p>
