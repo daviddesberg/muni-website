@@ -11,6 +11,11 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12" style="text-align: left;">
+                <div class="row">
+                    <div class="col-lg-12" style="text-align: center;">
+                        <a href="assets/guides/mars.pdf" class="btn btn-primary" style="background-color: #002058;">Background Guide</a>
+                    </div>
+                </div>
                 <h3><span class="illinois-blue-text">What is an <em>Ad Hoc</em><span class="illinois-orange-text"> Committee?</span></h3>
                 <p>
                     The <em>Ad Hoc</em> Committee of the Secretary General (<em>Ad Hoc</em>) is a committee type that is not typically offered on the conference circuit. While the <em>Ad Hoc</em> operates like most other crisis committees, it is designed to simulate crisis management and operating with minimal preparation. To do this, the research materials are released right before the conference so delegates must work quickly to build their policy. In short, the subject matter of an <em>Ad Hoc</em> Committee is supposed to be a surprise.
@@ -19,7 +24,7 @@
                     If Model United Nations was a sport, then the <em>Ad Hoc</em> Committee is the Super Bowl. This committee is designed to challenge delegates who are well-versed in crisis committees and are no strangers to thinking on their feet and solving problems with minimal preparation.
                 </p>
                 <p style="font-weight: 800;">
-                    The background guide for the <em>Ad Hoc</em> Committee will be released on March 6, 2017 and delegate assignments will be released on March 9, 2017.
+                    The background guide for the <em>Ad Hoc</em> Committee is available above and delegate assignments will be released on March 9, 2017.
                 </p>
                 <h3>Crisis Director: Andrew Maikisch</h3>
                 <h3>Email: amaiki2@illinois.edu</h3>
