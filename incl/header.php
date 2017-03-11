@@ -82,6 +82,9 @@ if(time() >= 1477933200) {
                 <li>
                     <a href="contact.php">Contact</a>
                 </li>
+                <li>
+                    <a href="ipd.php">The Insider</a>
+                </li>
             </ul>
         </div>
     </div>
