@@ -13,7 +13,8 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1>The Insider</h1>
-                <a href="assets/guides/ipd.pdf">Click here for the IPD guide</a>
+                <a href="assets/guides/ipd.pdf">Click here for the IPD guide</a><br>
+                <a href="assets/insider1.pdf">MUNI Insider - Volume 1</a>
             </div>
         </div>
     </div>
