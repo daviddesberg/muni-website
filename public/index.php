@@ -61,9 +61,9 @@
 <header class="imageheader mainheader">
     <div class="header-content">
         <div class="header-content-inner">
-            <h1 id="main-heading"><span class="illinois-orange-text">Model United Nations</span> <small>at</small> <span class="illinois-blue-text">Illinois</span> <span class="illinois-blue-text">XXII</span></h1>
+            <h1 id="main-heading"><span class="illinois-orange-text">Model United Nations</span> <small>at</small> <span class="illinois-blue-text">Illinois</span> <span class="illinois-blue-text">XXIII</span></h1>
             <hr>
-            <h2>March 10th, 2017 - March 12th, 2017</h2>
+            <h2>March 9th, 2018 - March 11th, 2018</h2>
         </div>
     </div>
 </header>
@@ -72,7 +72,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12" style="text-align: center;">
-                <h1 style="font-size: 72px;" class="illinois-blue-text">COUNTDOWN TO <span class="illinois-orange-text">MUNI XXII</span></h1>
+                <h1 style="font-size: 72px;" class="illinois-blue-text">COUNTDOWN TO <span class="illinois-orange-text">MUNI XXIII</span></h1>
             </div>
             <div class="col-lg-12">
                 <section class="count-down-wrapper fade-down" style="margin-bottom: 0;">
@@ -97,39 +97,34 @@
                 </section>
                 <hr style="margin-top: 0; margin-bottom: 0;">
                 <h1><span class="illinois-blue-text">Letter from the</span> <span class="illinois-orange-text">Secretary-General</span></h1>
-                <h4>Sunday, September 18, 2016</h4><br>
+                <h4>Monday, May 29, 2017</h4><br>
                 <div>
+                    <!--
                     <div class="pull-right" style="text-align:center; margin-left: 25px;">
                         <img style="height: 350px;" alt="Stuart J. Polen" src="assets/images/stuart.jpg"><br>
-                    </div>
+                    </div>-->
 
                     <p>
                     Prospective Advisors, Delegates, and Sponsors,
                     </p>
                     <p>
-                    It is my honor to welcome you to the twenty-second session of Model United Nations at the University of Illinois (MUNI)! The conference will be held between March 10-12, 2017.
+                        It is my honor to welcome you to the twenty-third session of Model United Nations at the University of Illinois at Urbana-Champaign (MUNI)! This upcoming academic year, MUNI will be held from Friday, March 9th through Sunday, March 11th on UIUC’s campus.
                     </p>
 
                     <p>
-                        I would like to reflect upon how MUNI’s vision and mission have changed over the course of its history. When this conference began twenty-two years ago, our initial mission was to show delegates an idealized version of the world in which the United Nations can solve even the most complex of issues. We have highlighted the importance of diplomacy and consensus building while prioritizing delegate education. However, the world is a fundamentally different place than it was back during MUNI I. Nowadays, Model United Nations is no longer just about showing the world as it ought to be. It is the duty of those who run Model United Nations conferences to bridge the gap between the idealized vision of the world and how the world truly operates. I truly believe that MUNI XXII has become a vehicle for delegates to explore how to solve current problems while not getting bogged down in how the world ought to be. Given the importance of political realism at all levels of diplomacy and foreign affairs, <strong>the chief goal of MUNI XXII is to create a well-rounded citizen by challenging delegates to solve problems in realistic political environments.</strong>
+                        Currently, myself and the Secretariat are on a much needed Summer Break. We have many familiar faces returning to the Secretariat this year and some exciting new members as well. Be sure to check out each member’s bio under the Secretariat tab! I hope those of you who attended MUNI XXII this past March had as great of an experience as I did serving you all as the USG of Registration. Now, I am even more excited to serve you all as your Secretary-General.                    </p>
+                    <p>
+                        MUNI XXIII is poised to be the most professionally ran, intellectually challenging, and well rounded experience that a Secretariat here at the University of Illinois at Urbana-Champaign has ever had the honor to host. Currently, myself and the Secretariat are hard at work this summer to make sure that statement becomes a reality for all those who become involved with MUNI in any capacity from now through the conference. As the conference takes shape this summer, we will be updating the website and possibly be sending out a few emails to alert you to new changes. We have many exciting things planned for MUNI that are based off of our own ideas, the debrief of our staff, and of course, the feedback received from all of the wonderful advisors who attended MUNI XXII.                    </p>
+                    <p>
+                        I will be updating this letter again in mid to late August once the conference has taken shape a bit more. Be sure, however, to check back on the website in the coming weeks for new updates. We plan on getting a lot of the big picture work and registration policies done very soon so you can all prepare accordingly with ample time.
                     </p>
                     <p>
-                        In the spirit of this mission, MUNI XXII will do something that has never been done before on the high school circuit. This year, MUNI will take the dynamic of the collegiate Model United Nations circuit and translate it for the high school audience. On the collegiate circuit, political realism is the forefront of every debate, which adds some interesting aspects to discourse. By emulating this style, MUNI will be an experience that no delegate will ever forget. We will be featuring some specialized committees and crisis committees, including a historical Russian Duma and the Illinois General Assembly. However, we will also present various U.N bodies that high school students know and enjoy, including DISEC, the WHO, the UNHRC, and others. While we will have some nontraditional committees this year, we will maintain the personal touch that delegates and advisors enjoy about MUNI. Ultimately, the diversity of our committees and subject matters will provide something for delegates of every persuasion. Whether your delegates enjoy GA committees, Crisis Committees, or something in between, MUNI provides something for everyone.
-                    </p>
-                    <p>
-                        On behalf of the Secretariat and the rest of our staff, I would like to thank you for considering MUNI XXII to your schedule and we hope to see you in March! If you have any questions regarding registration, please do not hesitate to contact us at <script>document.write('<'+'a'+' '+'h'+'r'+'e'+'f'+'='+"'"+'&'+'#'+'1'+'0'+'9'+';'+'a'+'i'+'l'+'&'+'#'+'1'+'1'+'6'+';'+'o'+
-                                '&'+'#'+'5'+'8'+';'+'%'+'&'+'#'+'5'+'5'+';'+'2'+'e'+'%'+'&'+'#'+'5'+'4'+';'+'7'+'&'+'#'+'1'+'0'+'5'+
-                                ';'+'s'+'t'+'r'+'&'+'#'+'9'+'7'+';'+'&'+'#'+'1'+'1'+'6'+';'+'%'+'6'+'9'+'o'+'%'+'6'+'&'+'#'+'6'+'9'+
-                                ';'+'%'+'4'+'0'+'i'+'l'+'l'+'%'+'6'+'9'+'&'+'#'+'1'+'1'+'0'+';'+'o'+'i'+'s'+'m'+'&'+'#'+'1'+'1'+'7'+
-                                ';'+'&'+'#'+'3'+'7'+';'+'&'+'#'+'5'+'4'+';'+'E'+'%'+'2'+'&'+'#'+'6'+'9'+';'+'o'+'r'+'g'+"'"+'>'+'&'+
-                                '#'+'1'+'1'+'4'+';'+'e'+'g'+'i'+'s'+'t'+'&'+'#'+'1'+'1'+'4'+';'+'a'+'t'+'i'+'o'+'n'+'&'+'#'+'6'+'4'+
-                                ';'+'i'+'l'+'l'+'i'+'n'+'o'+'i'+'s'+'&'+'#'+'1'+'0'+'9'+';'+'u'+'n'+'&'+'#'+'4'+'6'+';'+'o'+'&'+'#'+
-                                '1'+'1'+'4'+';'+'g'+'<'+'/'+'a'+'>');</script><noscript>[Turn on JavaScript to see the email address]</noscript>.
+                        Finally, on behalf of the Secretariat of MUNI XXIII, thank you very much for considering to add MUNI to your plans for the upcoming academic year or to sponsor our conference. We all hope to work with you closely over the coming months so we can welcome you to the University of Illinois at Urbana-Champaign for the most rewarding MUNI experience yet! If you have any questions at all or wish to be put on our email list for updates, please do not hesitate to contact our USG of Registration, Daniel Benson, at <a href="mailto:registration@illinoismun.org">registration@illinoismun.org</a>.
                     </p>
                     <p>
                     Sincerely,<br>
-                    Stuart J. Polen<br>
-                    Secretary General MUNI XXII
+                    John Hall<br>
+                    Secretary General | MUNI XXIII
                     </p>
 
                     <?php /*
@@ -295,7 +290,7 @@ $(function() {
         });
 $(function() {
     var release = moment.tz("2016-10-31 12:00", "America/Chicago");
-    $(".count-down").ccountdown(2017,3,10,'17:00');
+    $(".count-down").ccountdown(2018,3,9,'17:00');
     var cancel = false;
     $(".second").change(function() {
         if(cancel) { $(this).unbind(); return; }

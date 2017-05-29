@@ -1,19 +1,13 @@
-<?php
-$crisispage = "crisis_countdown.php";
-if(time() >= 1477933200) {
-    $crisispage = "crisis.php";
-}
-?>
 <!doctype html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Model United Nations at Illinois XXII">
+    <meta name="description" content="Model United Nations at Illinois XXIII">
     <meta name="author" content="David Desberg">
 
-    <title>Model United Nations at Illinois XXII</title>
+    <title>Model United Nations at Illinois XXIII</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/css/muni.css">
     <link rel="stylesheet" href="https://opensource.keycdn.com/fontawesome/4.6.3/font-awesome.min.css" integrity="sha384-Wrgq82RsEean5tP3NK3zWAemiNEXofJsTwTyHmNb/iL3dP/sZJ4+7sOld1uqYJtE" crossorigin="anonymous">
@@ -33,43 +27,29 @@ if(time() >= 1477933200) {
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">MUNI XXII</a>
+            <a class="navbar-brand page-scroll" href="index.php">MUNI XXIII</a>
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
                     <a href="index.php">Home</a>
                 </li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        About <span class="caret"></span>
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li><a href="whoweare.php">Who We Are</a></li>
-                        <li><a href="secretariat.php">Secretariat</a></li>
-                    </ul>
+                <li>
+                    <a href="secretariat.php">Secretariat</a>
                 </li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                         Conference <span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu">
+                        <li><a href="whoweare.php">Who We Are</a></li>
                         <li><a href="schedule.php">Schedule</a></li>
                         <li><a href="hotel.php">Hotel</a></li>
+                        <li><a href="media.php">Award Winners and Media</a></li>
                     </ul>
                 </li>
 
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        Committees <span class="caret"></span>
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li><a href="ga.php">General Assembly Committees</a></li>
-                        <li><a href="crisisga.php">Crisis GA Committees</a></li>
-                        <li><a href="<?=$crisispage?>">Crisis Committees</a></li>
-                        <li><a href="http://advisornetwork.muni.illinoismun.org/positionpapers">Position Papers</a></li>
-                    </ul>
-                </li>
+                <li><a href="committees.php">Committees</a></li>
                 <li>
                     <a href="http://advisornetwork.muni.illinoismun.org/register">Registration</a>
                 </li>
@@ -82,9 +62,10 @@ if(time() >= 1477933200) {
                 <li>
                     <a href="contact.php">Contact</a>
                 </li>
+                <!--
                 <li>
                     <a href="ipd.php">The Insider</a>
-                </li>
+                </li>-->
             </ul>
         </div>
     </div>

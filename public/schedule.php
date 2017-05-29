@@ -17,10 +17,10 @@
             <div class="col-lg-12">
                 <h1>Schedule</h1>
                 <p>
-                This is a <em>tentative</em> schedule for MUNI XXII.
-                All times and locations are subject to change and will be updated as the logistics of the conference are solidified.
+                    The schedule for MUNI XXIII will be released between mid-August and mid-September, be sure to check back then for more details.
                 </p>
 
+                <!--
                 <table id="sched-table" class="table table-bordered">
                     <tr>
                         <th colspan="3">
@@ -144,7 +144,7 @@
                         <td>1:30pm-2:30pm</td>
                         <td>Campus to Wyndham Garden</td>
                     </tr>
-                </table>
+                </table>-->
             </div>
         </div>
     </div>

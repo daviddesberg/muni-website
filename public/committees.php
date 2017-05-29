@@ -3,7 +3,7 @@
 <header class="imageheader hotelheader">
     <div class="header-content">
         <div class="header-content-inner">
-            <h1 id="main-heading"><span>Hotel</span></h1>
+            <h1 id="main-heading"><span>Committees</span></h1>
         </div>
     </div>
 </header>
@@ -12,9 +12,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-                <h1>Hotel</h1>
+                <h1>Committees</h1>
                 <p>
-                    Hotel information will be released in mid-September.
+                    Information on MUNI XXIII committees will become available soon.
                 </p>
             </div>
         </div>
