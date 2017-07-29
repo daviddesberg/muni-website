@@ -17,10 +17,11 @@
             <div class="col-lg-12">
                 <h1>Schedule</h1>
 
-                <table id="sched-table" class="table table-bordered table-striped">
+                <table id="sched-table-1" class="table table-bordered table-striped">
+                    <tr style="display: none;"></tr>
                     <tr>
                         <th colspan="3">
-                            <em>Friday, March 9, 2018</em>
+                            <em style="text-decoration: underline; font-size: 18px;">Friday, March 9, 2018</em>
                         </th>
                     </tr>
                     <tr>
@@ -58,10 +59,12 @@
                         <td>11:15pm-12:15am</td>
                         <td>Campus to Hotel</td>
                     </tr>
-
+                </table>
+                <table id="sched-table-2" class="table table-bordered table-striped">
+                    <tr style="display: none;"></tr>
                     <tr>
                         <th colspan="3">
-                            <em>Saturday, March 10, 2018</em>
+                            <em style="text-decoration: underline; font-size: 18px;">Saturday, March 10, 2018</em>
                         </th>
                     </tr>
                     <tr>
@@ -114,10 +117,12 @@
                         <td>11:00pm-1:00am</td>
                         <td>Hotel TBD</td>
                     </tr>
-
+                </table>
+                <table id="sched-table-3" class="table table-bordered table-striped">
+                    <tr style="display: none;"></tr>
                     <tr>
                         <th colspan="3">
-                            <em>Sunday, March 11, 2018</em>
+                            <em style="text-decoration: underline; font-size: 18px;">Sunday, March 11, 2018</em>
                         </th>
                     </tr>
                     <tr>
