@@ -21,7 +21,7 @@
                     <tr style="display: none;"></tr>
                     <tr>
                         <th colspan="3">
-                            <em style="text-decoration: underline; font-size: 18px;">Friday, March 9, 2018</em>
+                            <span style="text-decoration: underline; font-size: 18px;">Friday, March 9, 2018</span>
                         </th>
                     </tr>
                     <tr>
@@ -61,7 +61,7 @@
                     </tr>
                     <tr>
                         <th colspan="3">
-                            <em style="text-decoration: underline; font-size: 18px;">Saturday, March 10, 2018</em>
+                            <span style="text-decoration: underline; font-size: 18px;">Saturday, March 10, 2018</span>
                         </th>
                     </tr>
                     <tr>
@@ -117,7 +117,7 @@
                     <tr style="display: none;"></tr>
                     <tr>
                         <th colspan="3">
-                            <em style="text-decoration: underline; font-size: 18px;">Sunday, March 11, 2018</em>
+                            <span style="text-decoration: underline; font-size: 18px;">Sunday, March 11, 2018</span>
                         </th>
                     </tr>
                     <tr>
