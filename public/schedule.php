@@ -20,22 +20,21 @@
                     The schedule for MUNI XXIII will be released between mid-August and mid-September, be sure to check back then for more details.
                 </p>
 
-                <!--
                 <table id="sched-table" class="table table-bordered">
                     <tr>
                         <th colspan="3">
-                            Friday, March 10, 2017
+                            Friday, March 9, 2018
                         </th>
                     </tr>
                     <tr>
                         <td>Registration</td>
                         <td>12:00pm-5:00pm</td>
-                        <td>Wyndham Garden</td>
+                        <td>Hotel TBD</td>
                     </tr>
                     <tr>
                         <td>Busing to Conference</td>
                         <td>5:30pm-6:30pm</td>
-                        <td>Wyndham Garden to Campus</td>
+                        <td>Hotel to Campus</td>
                     </tr>
                     <tr>
                         <td>Dinner</td>
@@ -45,7 +44,7 @@
                     <tr>
                         <td>Opening Ceremonies</td>
                         <td>7:15pm-8:15pm</td>
-                        <td>TBD</td>
+                        <td>Lincoln Hall Theater</td>
                     </tr>
                     <tr>
                         <td>Committee Session I</td>
@@ -55,23 +54,23 @@
                     <tr>
                         <td>Advisor Feedback Session I</td>
                         <td>10:00pm-10:30pm</td>
-                        <td>TBD</td>
+                        <td>Wohlers Hall</td>
                     </tr>
                     <tr>
                         <td>Busing to Hotel</td>
                         <td>11:15pm-12:15am</td>
-                        <td>Campus to Wyndham Garden</td>
+                        <td>Campus to Hotel</td>
                     </tr>
 
                     <tr>
                         <th colspan="3">
-                            Saturday, March 11, 2017
+                            Saturday, March 10, 2018
                         </th>
                     </tr>
                     <tr>
                         <td>Busing to Conference</td>
                         <td>8:00am-9:00am</td>
-                        <td>Wyndham Garden to Campus</td>
+                        <td>Hotel to Campus</td>
                     </tr>
                     <tr>
                         <td>Committee Session II</td>
@@ -84,9 +83,9 @@
                         <td>Campus</td>
                     </tr>
                     <tr>
-                        <td>Advisor Banquet</td>
+                        <td>Advisor Lunch</td>
                         <td>12:30pm-1:45pm</td>
-                        <td>TBD</td>
+                        <td>Wohlers Hall 130</td>
                     </tr>
                     <tr>
                         <td>Committee Session III</td>
@@ -106,28 +105,28 @@
                     <tr>
                         <td>Advisor Feedback Session II</td>
                         <td>8:00pm-8:30pm</td>
-                        <td>TBD</td>
+                        <td>Wohlers Hall</td>
                     </tr>
                     <tr>
                         <td>Busing to Hotel</td>
                         <td>10:15pm-11:15pm</td>
-                        <td>Campus to Wyndham Garden</td>
+                        <td>Campus to Hotel</td>
                     </tr>
                     <tr>
                         <td>Delegate Dance</td>
                         <td>11:00pm-1:00am</td>
-                        <td>Wyndham Garden</td>
+                        <td>Hotel TBD</td>
                     </tr>
 
                     <tr>
                         <th colspan="3">
-                            Sunday, March 12, 2017
+                            Sunday, March 11, 2018
                         </th>
                     </tr>
                     <tr>
                         <td>Busing to Conference</td>
                         <td>8:30am-9:30am</td>
-                        <td>Wyndham Garden to Campus</td>
+                        <td>Hotel to Campus</td>
                     </tr>
                     <tr>
                         <td>Committee Session V</td>
@@ -136,15 +135,15 @@
                     </tr>
                     <tr>
                         <td>Closing Ceremonies</td>
-                        <td>12:15pm-1:15pm</td>
-                        <td>TBD</td>
+                        <td>12:15pm-1:45pm</td>
+                        <td>Lincoln Hall Theater</td>
                     </tr>
                     <tr>
                         <td>Busing to Hotel</td>
-                        <td>1:30pm-2:30pm</td>
-                        <td>Campus to Wyndham Garden</td>
+                        <td>2:00pm-3:00pm</td>
+                        <td>Campus to Hotel</td>
                     </tr>
-                </table>-->
+                </table>
             </div>
         </div>
     </div>
