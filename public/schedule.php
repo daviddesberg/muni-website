@@ -16,14 +16,11 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1>Schedule</h1>
-                <p>
-                    The schedule for MUNI XXIII will be released between mid-August and mid-September, be sure to check back then for more details.
-                </p>
 
-                <table id="sched-table" class="table table-bordered">
+                <table id="sched-table" class="table table-bordered table-striped">
                     <tr>
                         <th colspan="3">
-                            Friday, March 9, 2018
+                            <em>Friday, March 9, 2018</em>
                         </th>
                     </tr>
                     <tr>
@@ -64,7 +61,7 @@
 
                     <tr>
                         <th colspan="3">
-                            Saturday, March 10, 2018
+                            <em>Saturday, March 10, 2018</em>
                         </th>
                     </tr>
                     <tr>
@@ -120,7 +117,7 @@
 
                     <tr>
                         <th colspan="3">
-                            Sunday, March 11, 2018
+                            <em>Sunday, March 11, 2018</em>
                         </th>
                     </tr>
                     <tr>
