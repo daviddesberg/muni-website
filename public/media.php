@@ -14,7 +14,7 @@
             <div class="col-lg-6">
                 <h1>Award Winners and Media</h1>
                 <p>
-                    MUNI XXII award winners and pictures will be posted soon.
+                    MUNI XXII award winners and pictures will be posted by mid-September.
                 </p>
             </div>
         </div>
