@@ -124,7 +124,7 @@
                     <p>
                     Sincerely,<br>
                     John Hall<br>
-                    Secretary General | MUNI XXIII
+                    Secretary-General | MUNI XXIII
                     </p>
 
                     <?php /*
@@ -139,7 +139,7 @@
                         We have been working diligently to ensure that you have the best experience on the Midwestern circuit. We are currently working on redesigning our website and streamlining our registration process. Our staff would like to thank you for being patient while we update our website. As committees are finalized and when registration opens on October 1, 2016, the website will be updated and new features will be introduced. Be sure to check regularly for updates.                    </p>
 
                     <p style="text-indent: 30px;">
-                        On behalf of the Secretariat, I hope you consider adding MUNI XXII to your schedule. We take great pride in our conference and we hope to see you in March! If you have any questions about registering for MUNI XXII, please do not hesitate to contact our Undersecretary-General of Registration at registration@illinoismun.org.
+                        On behalf of the Secretariat, I hope you consider adding MUNI XXII to your schedule. We take great pride in our conference and we hope to see you in March! If you have any questions about registering for MUNI XXII, please do not hesitate to contact our Under-Secretary-General of Registration at registration@illinoismun.org.
                     </p>
                     */ ?>
 
