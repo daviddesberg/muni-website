@@ -55,34 +55,34 @@
                     <tr>
                         <td>Joint Crisis Committee (JCC): Advanced</td>
                         <td>UNHRC Double Del: Advanced<br>30 countries, 60 delegates</td>
-                        <td colspan="2"></td>
+                        <td style="display: none;" colspan="2"></td>
                     </tr>
                     <tr>
                         <td>United Nations Security Council (UNSC): Intermediate</td>
                         <td>Specialized GA: Intermediate<br>40 countries, 40 delegates</td>
-                        <td colspan="2"></td>
+                        <td style="display: none;" colspan="2"></td>
                     </tr>
                     <tr>
                         <td>General Crisis 1: Advanced</td>
                         <td>General GA 1: Intermediate<br>40 countries, 40 delegates</td>
-                        <td colspan="2"></td>
+                        <td style="display: none;" colspan="2"></td>
                     </tr>
                     <tr>
                         <td>General Crisis 2: Intermediate</td>
                         <td>General GA 2: Intermediate<br>40 countries, 40 delegates</td>
-                        <td colspan="2"></td>
+                        <td style="display: none;" colspan="2"></td>
                     </tr>
                     <tr>
                         <td>General Crisis 3: Intermediate</td>
-                        <td colspan="3"></td>
+                        <td style="display: none;" colspan="3"></td>
                     </tr>
                     <tr>
                         <td>General Crisis 4: Intermediate</td>
-                        <td colspan="3"></td>
+                        <td style="display: none;" colspan="3"></td>
                     </tr>
                     <tr>
                         <td>General Crisis 5: Intermediate</td>
-                        <td colspan="3"></td>
+                        <td style="display: none;" colspan="3"></td>
                     </tr>
                 </table>
                 <hr>
@@ -105,7 +105,7 @@
                 <hr>
                 <h3><span class="illinois-blue-text">Important Dates</span> <span class="illinois-orange-text">and Deadlines</span></h3>
                 <p>
-                    <ul>
+                    <ul style="font-size: 16px;">
                         <li>
                             Tuesday, November 14th
                             <ul style="list-style-type: square">
