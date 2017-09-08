@@ -97,7 +97,7 @@
                 </section>
                 <hr style="margin-top: 0; margin-bottom: 0;">
                 <h1><span class="illinois-blue-text">Letter from the</span> <span class="illinois-orange-text">Secretary-General</span></h1>
-                <h4>Tuesday, September 7, 2017</h4><br>
+                <h4>Thursday, September 7, 2017</h4><br>
                 <div>
                     <!--
                     <div class="pull-right" style="text-align:center; margin-left: 25px;">
