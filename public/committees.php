@@ -25,7 +25,7 @@
                     committees and department specific information.
                 </p>
                 <p>
-                    In late August, this letter will be replaced by a letter from our USG of Simulations Michael Lawlor and PGA Gordon Young
+                    In mid September, this letter will be replaced by a letter from our USG of Simulations Michael Lawlor and PGA Gordon Young
                     detailing the vision and drive behind MUNI XXIII’s committee departments.
                 </p>
                 <p>
