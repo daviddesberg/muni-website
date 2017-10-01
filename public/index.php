@@ -97,7 +97,7 @@
                 </section>
                 <hr style="margin-top: 0; margin-bottom: 0;">
                 <h1><span class="illinois-blue-text">Letter from the</span> <span class="illinois-orange-text">Secretary-General</span></h1>
-                <h4>Thursday, September 7, 2017</h4><br>
+                <h4>Sunday, October 1, 2017</h4><br>
                 <div>
                     <!--
                     <div class="pull-right" style="text-align:center; margin-left: 25px;">
@@ -118,10 +118,10 @@
                     Now that registration is formally open, our committees have been posted (for the most part). They and the vision of our committee departments can be viewed under the committees tab. The website will still be undergoing updates for the next couple weeks. As for the hotel(s), we hope to have a contract signed by the end of the week. We will notify all advisors via mass mail when this happens along with updating the website.
                     </p>
                     <p>
-                    In addition, now that registration has opened, we will be starting our social media operation. Be sure to like our Facebook Page “Model United Nations at the University of Illinois” at <a href = "fb.me/munixxiii"> fb.me/munixxiii </a> for a variety of things including exclusive updates, interviews with committee directors, registration reminders, and behind the scenes looks at the preparation that goes into MUNI!  If your delegates ever need a quick way to get in contact with us, they can always message us through our FB page as well!
+                    In addition, now that registration has opened, we will be starting our social media operation. Be sure to like our Facebook Page “Model United Nations at the University of Illinois” at <a href="http://fb.me/munixxiii">fb.me/munixxiii</a> for a variety of things including exclusive updates, interviews with committee directors, registration reminders, and behind the scenes looks at the preparation that goes into MUNI!  If your delegates ever need a quick way to get in contact with us, they can always message us through our FB page as well!
                     </p>
                     <p>
-                    Finally, on behalf of the Secretariat and staff of MUNI XXIII, thank you very much for considering adding MUNI to your plans for the academic year or to sponsor our conference. We all hope to work with you closely over the coming months so we can welcome you to the University of Illinois at Urbana-Champaign for the most rewarding MUNI experience yet! If you have any questions at all or wish to be put on our email list for updates, please do not hesitate to contact our USG of Registration, Daniel Benson, at registration@illinoismun.org.
+                    Finally, on behalf of the Secretariat and staff of MUNI XXIII, thank you very much for considering adding MUNI to your plans for the academic year or to sponsor our conference. We all hope to work with you closely over the coming months so we can welcome you to the University of Illinois at Urbana-Champaign for the most rewarding MUNI experience yet! If you have any questions at all or wish to be put on our email list for updates, please do not hesitate to contact our USG of Registration, Daniel Benson, at <a href="mailto:registration@illinoismun.org">registration@illinoismun.org</a>.
                     </p>
                     <p>
                     Sincerely,<br>
@@ -141,7 +141,8 @@
                         We have been working diligently to ensure that you have the best experience on the Midwestern circuit. We are currently working on redesigning our website and streamlining our registration process. Our staff would like to thank you for being patient while we update our website. As committees are finalized and when registration opens on October 1, 2016, the website will be updated and new features will be introduced. Be sure to check regularly for updates.                    </p>
 
                     <p style="text-indent: 30px;">
-                        On behalf of the Secretariat, I hope you consider adding MUNI XXII to your schedule. We take great pride in our conference and we hope to see you in March! If you have any questions about registering for MUNI XXII, please do not hesitate to contact our Under-Secretary-General of Registration at registration@illinoismun.org.
+                        On behalf of the Secretariat, I hope you consider adding MUNI XXII to your schedule. We take great pride in our conference and we hope to see you in March! If you have any questions about registering for MUNI XXII, please do not hesitate to contact our Under-Secretary-General of Registration at registration@
+illinoismun.org.
                     </p>
                     */ ?>
 
