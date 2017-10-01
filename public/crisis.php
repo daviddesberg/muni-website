@@ -17,24 +17,18 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12" style="text-align: left;">
-                <table id="crisislinks" class="table" style="font-size: 36px; width: 100%;">
-                    <tr>
-                        <td><a href="crisispage.php?c=baldwin">Kingdom of Heaven: The Court of Baldwin IV of Jerusalem</a></td>
-                        <td><a href="crisispage.php?c=fifa">The Next Great City: The FIFA Executive Board Committee</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="crisispage.php?c=iraqjcc">Destiny Awaits: Iraqi Government (JCC)</a></td>
-                        <td><a href="crisispage.php?c=coalitionjcc">Responsibility to Protect: Coalition Forces (JCC)</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="crisispage.php?c=nehru">Independence: Nehru&#39;s Cabinet of 1947</a></td>
-                        <td><a href="adhoc.php"><em>Ad Hoc</em> Committee of the Secretary-General</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="crisispage.php?c=roanoke">Island of Mystery: The Roanoke Colony</a></td>
-                        <td><a href="crisispage.php?c=unsc">UNSC 2017: The World at Crossroads</a></td>
-                    </tr>
-                </table>
+                <p>
+                This year the Department of Simulations is striving to be better than it ever has been before
+                </p>
+                <p>
+                The crisis committees run by Department of Simulations has always been a branch of MUNI that has taken on many different rolls whether it be presenting modern topics or representing historical governments.  While all committees at MUNI strive to provide an education and entertaining experience when it comes to crisis committees an entirely different aspect rears its head.  Delegates are forced to quickly adapt to situations as they arise and use the resources that are available to them both as characters and as a body.  This year will be my third time serving in the Department of Simulations and as its leader I am striving to bring my own vision of what a crisis committee should be to life.   Committees this year will touch on both contemporary and historical topics that are regularly overlooked by most educational systems.  A main change that I have made in order to further the educational goals this year is that all background guides will be filled with extensive academic citations because it is my belief that the best MUN experiences come when committees are grounded in realism.  Lastly, by selecting the best and brightest directors that Illinois Model United Nations has to offer the crisis committees of MUNI XXIII are guaranteed to be both invigorating and academically stimulating
+                </p>
+                <p>
+                I cannot wait till March to see my vison for the department become reality and I hope to see everyone who has read this letter there.
+                </p>
+                <p>Regards,</p>
+                <p>Michael Lawlor</p>
+                <p>Undersecretary-General of Simulations | MUNI XXIII</p>
             </div>
         </div>
     </div>
