@@ -3,7 +3,7 @@
 <header class="imageheader hotelheader">
     <div class="header-content">
         <div class="header-content-inner">
-            <h1 id="main-heading"><span>MUNI XXII Awards</span></h1>
+            <h1 id="main-heading"><span>MUNI XXII Awards and Media</span></h1>
         </div>
     </div>
 </header>
