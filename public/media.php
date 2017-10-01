@@ -13,9 +13,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <h1>Award Winners and Media</h1>
-                <p>
-                    MUNI XXII award winners and pictures will be posted by mid-September.
-                </p>
+		        <a style="font-size: 20px;" href="munixxiiawards.php">MUNI XXII</a>
             </div>
         </div>
     </div>
