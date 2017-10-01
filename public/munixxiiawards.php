@@ -12,6 +12,96 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
+                <h1>Media</h1>
+<div id="munixxii-carousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+     <li data-target="#munixxii-carousel" data-slide-to="0" class="active"></li>
+     <li data-target="#munixxii-carousel" data-slide-to="1"></li>
+     <li data-target="#munixxii-carousel" data-slide-to="2"></li>
+     <li data-target="#munixxii-carousel" data-slide-to="3"></li>
+     <li data-target="#munixxii-carousel" data-slide-to="4"></li>
+     <li data-target="#munixxii-carousel" data-slide-to="5"></li>
+     <li data-target="#munixxii-carousel" data-slide-to="6"></li>
+     <li data-target="#munixxii-carousel" data-slide-to="7"></li>
+     <li data-target="#munixxii-carousel" data-slide-to="8"></li>
+  </ol>
+ 
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="/assets/images/munixxii/muni0.jpg" alt="...">
+      <div class="carousel-caption">
+      	<h3></h3>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="/assets/images/munixxii/muni1.jpg" alt="...">
+      <div class="carousel-caption">
+      	<h3></h3>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="/assets/images/munixxii/muni2.jpg" alt="...">
+      <div class="carousel-caption">
+      	<h3></h3>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="/assets/images/munixxii/muni3.jpg" alt="...">
+      <div class="carousel-caption">
+      	<h3></h3>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="/assets/images/munixxii/muni4.jpg" alt="...">
+      <div class="carousel-caption">
+      	<h3></h3>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="/assets/images/munixxii/muni5.jpg" alt="...">
+      <div class="carousel-caption">
+      	<h3></h3>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="/assets/images/munixxii/muni6.jpg" alt="...">
+      <div class="carousel-caption">
+      	<h3></h3>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="/assets/images/munixxii/muni7.jpg" alt="...">
+      <div class="carousel-caption">
+      	<h3></h3>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="/assets/images/munixxii/muni8.jpg" alt="...">
+      <div class="carousel-caption">
+      	<h3></h3>
+      </div>
+    </div>
+  </div>
+ 
+  <!-- Controls -->
+  <a class="left carousel-control" href="#munixxii-carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#munixxii-carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div> <!-- Carousel -->
+<hr>
                 <h1>Award Winners</h1>
                 <h2 class="illinois-orange-text">Delegation Award Winners</h2>
                 <div style="font-size: 18px;">

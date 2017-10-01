@@ -14,7 +14,7 @@
             <div class="col-lg-6">
                 <h1>Hotel</h1>
                 <p>
-                    Hotel information will be released in mid-September.
+                    Hotel information will be released within the next two weeks.
                 </p>
             </div>
         </div>
