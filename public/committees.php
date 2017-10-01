@@ -27,12 +27,13 @@ If you have any questions or concerns about committees at all, you can contact U
                     John Hall<br>
                     Secretary-General | MUNI XXIII
                 </p>
-                <hr>
+<!--
                 <h3><span class="illinois-blue-text">Committee</span> <span class="illinois-orange-text">Preview</span></h3>
                 <p>
                     Below is a preview of the conference wide structure of committees here at MUNI including type, skill level, and number of
                     delegates.
                 </p>
+		
                 <table class="table table-bordered table-striped">
                     <tr>
                         <th>Crisis: 15 Delegates each, 135 total delegates</th>
@@ -78,7 +79,15 @@ If you have any questions or concerns about committees at all, you can contact U
                         <td>General Crisis 5: Intermediate</td>
                         <td style="display: none;" colspan="3"></td>
                     </tr>
-                </table>
+                </table>-->
+		<hr>
+
+		<div style="font-size: 24px; text-align: center;">
+			<a href="crisis.php">Crisis Committees</a><br>
+			<a class="illinois-blue-text" href="ga.php">General Assembly/Crisis-GA Committees</a><br>
+			<a href="ipd.php">International Press Delegation</a>
+		</div>
+
                 <hr>
                 <h3><span class="illinois-blue-text">Committee Updates,</span> <span class="illinois-orange-text">Goals, and Policies</span></h3>
                 <p>
@@ -93,8 +102,7 @@ If you have any questions or concerns about committees at all, you can contact U
                 </p>
                 <p>
                     We have many new things to offer delegates this year to make sure they get the most out of their time preparing for and
-                    attending MUNI. This includes implementing a new education and skill building debrief in every committee between staff and delegates as well as a formal online delegate feedback system. Check back on this page from late-August through mid-
-                    September for new updates as well as our defined goals for education and skill building!
+                    attending MUNI. This includes implementing a new education and skill building debrief in every committee between staff and delegates as well as a formal online delegate feedback system. Check back on this page in the coming weeks for new updates!
                 </p>
                 <hr>
                 <h3><span class="illinois-blue-text">Important Dates</span> <span class="illinois-orange-text">and Deadlines</span></h3>

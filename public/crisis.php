@@ -13,11 +13,12 @@
         color: black !important;
     }
 </style>
-<h1><span class="illinois-blue-text">Letter from the</span> <span class="illinois-orange-text">Under-Secretary-General of Simulations</span></h1>
+
 <section>
     <div class="container">
         <div class="row">
             <div class="col-md-12" style="text-align: left;">
+<h1><span class="illinois-blue-text">Letter from the</span> <span class="illinois-orange-text">Under-Secretary-General of Simulations</span></h1>
                 <p>
                 This year the Department of Simulations is striving to be better than it ever has been before
                 </p>
@@ -27,10 +28,25 @@
                 <p>
                 I cannot wait till March to see my vison for the department become reality and I hope to see everyone who has read this letter there.
                 </p>
-                <p>Regards,</p>
-                <p>Michael Lawlor</p>
-                <p>Under-Secretary-General of Simulations | MUNI XXIII</p>
+                <p>Regards,<br>
+                Michael Lawlor<br>
+                Under-Secretary-General of Simulations | MUNI XXIII</p>
+<hr>
+            <h2>Committees</h2>
+		<ul style="list-style-type: square; font-size: 18px;">
+		    <li>Ad-Hoc Committee of the Secretary-General</li>
+            <li>Joint Crisis Committee: The Taiping Rebellion</li>
+            <li>United Nations Security Council</li>
+            <li>The Truman Cabinet</li>
+            <li>Enron Board of Directors</li>
+            <li>Victorian London: Metropolitan Board of Works</li>
+            <li>The Münster Rebellion</li>
+            <li>Feudal Japan</li>
+        </ul>
             </div>
+            <hr>
+
+
         </div>
     </div>
 </section>
