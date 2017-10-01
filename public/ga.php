@@ -14,6 +14,7 @@
     }
 </style>
 
+<h1><span class="illinois-blue-text">Letter from the</span> <span class="illinois-orange-text">President of the General Assembly</span></h1>
 <section>
     <div class="container">
         <div class="row">

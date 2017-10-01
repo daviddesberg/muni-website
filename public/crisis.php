@@ -13,6 +13,7 @@
         color: black !important;
     }
 </style>
+<h1><span class="illinois-blue-text">Letter from the</span> <span class="illinois-orange-text">Under-Secretary-General of Simulations</span></h1>
 <section>
     <div class="container">
         <div class="row">
@@ -28,7 +29,7 @@
                 </p>
                 <p>Regards,</p>
                 <p>Michael Lawlor</p>
-                <p>Undersecretary-General of Simulations | MUNI XXIII</p>
+                <p>Under-Secretary-General of Simulations | MUNI XXIII</p>
             </div>
         </div>
     </div>
