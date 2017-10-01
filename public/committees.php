@@ -17,17 +17,11 @@
                     Welcome to the main committees page of our website!
                 </p>
                 <p>
-                    While we are currently still in the process of finalizing our big picture goals, structure, and vision of both our Simulations and
-                    General Assembly Department’s, we can offer you some detailed information now. This page will be updated as the year goes
-                    on and staff members are hired with our conference wide goals, policies, and important dates and deadlines regarding
-                    committees. Also, drop down menu items for each of the committee types, as categorized by the columns in the preview
-                    table below, will be added in the header bar of the website under the committees tab for easier navigation to view each of our
-                    committees and department specific information.
+Now that our committees and their topics have been mostly finalized, you are able to click on the department links below to view our committees! Our department heads, USG of Simulations Michael Lawlor and PGA Gordon Young, have been working hard with directors to make sure we build our committees on the foundations of education and skill development. To that end, they have defined their personal goals and visions for their respective departments and have asked their Directors to do the same for their specific committees. These committee specific goals, along with Director bios will be posted as the committees take shape. Our aim in doing this is to give advisors the best picture of what our conference has to offer and also inform delegates about what they can expect to get out of their attendance here at MUNI.
                 </p>
-                <p>
-                    In mid September, this letter will be replaced by a letter from our USG of Simulations Michael Lawlor and PGA Gordon Young
-                    detailing the vision and drive behind MUNI XXIII’s committee departments.
-                </p>
+<p>
+If you have any questions or concerns about committees at all, you can contact USG of Registration Danny Benson at <a href="mailto:registration@illinoismun.org">registration@illinoismun.org</a>. Contact info for Mike and Gordon will be posted on their respective pages and when the time comes for Background Guides and Position Papers, Directors will also have their contact info posted. Be sure to like our Facebook Page “Model United Nations at the University of Illinois” at <a href="https://fb.me/munixxiii">fb.me/munixxiii</a> to stay informed on our committee plans. Our posts in the coming months will be focusing in on interviews with directors (in which they will give special tips about how to do well in their committee) along with other committee related content like an early reveal of our Ad-Hoc committee! If your delegates ever need a quick way to get in contact with us, they can always message us through our FB page as well!
+</p>
                 <p>
                     Best,<br>
                     John Hall<br>
