@@ -98,7 +98,7 @@
     </div>
     <div class="row">
         <div class="col-lg-2">
-            <img class="img-thumbnail" width="180" src="http://via.placeholder.com/180x300?text=David">
+            <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/david.jpg">
         </div>
         <div class="col-lg-10">
    <span class="secmember"><span class="illinois-blue-text">David Desberg – </span><span class="illinois-orange-text">Under-Secretary-General of Technology Operations</span></span><br>
