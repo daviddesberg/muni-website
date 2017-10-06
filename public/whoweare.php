@@ -35,4 +35,4 @@
     </div>
 </section>
 
-<?php require_once('../incl/footer.php'); ?>
+<?php $footerPhotoCredit='Hannah Auten'; require_once('../incl/footer.php'); ?>

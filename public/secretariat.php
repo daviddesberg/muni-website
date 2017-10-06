@@ -6,6 +6,7 @@
     }
     .bio {
         display: block;
+        font-size: 14.5px;
         padding-bottom: 18px;
     }
     .col-lg-2 { padding-bottom: 35px; }
@@ -28,7 +29,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/john.jpg">
-<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
+<br><small style="font-size: 9.5px;">Photo credit: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
                     <span class="secmember"><span class="illinois-blue-text">John Hall</span> – <span class="illinois-orange-text">Secretary-General</span></span></span><br>
@@ -41,7 +42,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/peggy.jpg">
-<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
+<br><small style="font-size: 9.5px;">Photo credit: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
                     <span class="secmember"><span class="illinois-blue-text">Peggy Kern – </span><span class="illinois-orange-text">Deputy Secretary-General</span></span><br>
@@ -55,7 +56,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/danny.jpg">
-<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
+<br><small style="font-size: 9.5px;">Photo credit: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
                   <span class="secmember"><span class="illinois-blue-text">Danny Benson – </span><span class="illinois-orange-text">Under-Secretary-General of Registration</span></span><br>
@@ -67,7 +68,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/lawlor.jpg">
-<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
+<br><small style="font-size: 9.5px;">Photo credit: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
       <span class="secmember"><span class="illinois-blue-text">Michael Lawlor – </span><span class="illinois-orange-text">Under-Secretary-General of Simulations</span></span><br>
@@ -81,7 +82,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/gordon.jpg">
-<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
+<br><small style="font-size: 9.5px;">Photo credit: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
    <span class="secmember"><span class="illinois-blue-text">Gordon Young – </span><span class="illinois-orange-text">President of the General Assembly</span></span><br>
@@ -93,7 +94,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/will.jpg">
-<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
+<br><small style="font-size: 9.5px;">Photo credit: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
  <span class="secmember"><span class="illinois-blue-text">William Armiros – </span><span class="illinois-orange-text">Under-Secretary-General of Rules and Procedures</span></span><br>
@@ -117,7 +118,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/archit.jpg">
-<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
+<br><small style="font-size: 9.5px;">Photo credit: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
 
@@ -130,7 +131,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/drew.jpg">
-<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
+<br><small style="font-size: 9.5px;">Photo credit: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
 
@@ -143,7 +144,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/caroline.jpg">
-<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
+<br><small style="font-size: 9.5px;">Photo credit: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
 <span class="secmember"><span class="illinois-blue-text">Caroline Hsu – </span><span class="illinois-orange-text">Under-Secretary-General of Merchandising and Public Relations</span></span><br>
@@ -155,7 +156,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/rebecca.jpg">
-<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
+<br><small style="font-size: 9.5px;">Photo credit: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
 <span class="secmember"><span class="illinois-blue-text">Rebecca Gorski – </span><span class="illinois-orange-text">Deputy Under-Secretary-General of Merchandising and Public Relations</span></span><br>
@@ -167,7 +168,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/yash.jpg">
-<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
+<br><small style="font-size: 9.5px;">Photo credit: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
 <span class="secmember"><span class="illinois-blue-text">Yash Tyagi – </span><span class="illinois-orange-text">Under-Secretary-General of Publications and Design</span></span><br>
