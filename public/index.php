@@ -62,7 +62,7 @@
     <div class="header-content">
         <div class="header-content-inner">
             <h1 style="position: relative; bottom: 55px;" id="main-heading"><span class="illinois-orange-text">Model United Nations</span> <small>at</small> <span class="illinois-blue-text">Illinois</span> <span class="illinois-blue-text">XXIII</span></h1>
-            <hr style="position: relative; bottom: 22.5px;">
+            <hr style="position: relative; bottom: 22.5px; visibility: hidden;">
             <h2>March 9th, 2018 - March 11th, 2018</h2>
         </div>
     </div>

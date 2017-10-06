@@ -23,7 +23,7 @@ if(isset($_POST['mail']) && $_POST['mail'] === 'mail') {
 <header class="imageheader contactheader">
     <div class="header-content">
         <div class="header-content-inner">
-            <h1 id="main-heading"><span >Contact</span></h1>
+            <h1 style="position: relative; top: 105px;" id="main-heading"><span >Contact</span></h1>
         </div>
     </div>
 </header>
