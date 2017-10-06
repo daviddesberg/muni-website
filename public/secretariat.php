@@ -28,17 +28,20 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/john.jpg">
+<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
                     <span class="secmember"><span class="illinois-blue-text">John Hall</span> – <span class="illinois-orange-text">Secretary-General</span></span></span><br>
                     <span class="bio">
                         I am a Junior here at UIUC majoring in Global Studies and minoring in both Russian, East European, and Eurasian Studies as well as International Development Economics. In addition, I am pursuing certificates in Global Security and International Development Studies. Aside from serving as your Secretary-General for MUNI XXIII, I am also involved with the Illinois MUN travel team and serve as the Senior Editor for the Illini Journal of International Security. Last year, I served as the USG of Registration for MUNI XXII and before that, as a crisis staffer for the Irish Revolution committee at MUNI XXI. This will therefore be my third year staffing MUNI and being involved in Illinois MUN. I have also served as the Political Officer for the 1994 Historical Security Council at CIMUN XIII last December and am excited to return to the Department of Simulations there this upcoming November-December. Outside of Model UN and my previously mentioned commitments, I enjoy playing guitar, running and working out, hunting, binge watching Netflix, and of course, crafting the finest quality artisan memes here at UIUC. We have a lot of new things in store for all of you who attend or staff MUNI XXIII and I cannot wait to see you all in March!
+                    
                     </span>
         </div>
     </div>
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/peggy.jpg">
+<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
                     <span class="secmember"><span class="illinois-blue-text">Peggy Kern – </span><span class="illinois-orange-text">Deputy Secretary-General</span></span><br>
@@ -52,6 +55,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/danny.jpg">
+<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
                   <span class="secmember"><span class="illinois-blue-text">Danny Benson – </span><span class="illinois-orange-text">Under-Secretary-General of Registration</span></span><br>
@@ -63,6 +67,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/lawlor.jpg">
+<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
       <span class="secmember"><span class="illinois-blue-text">Michael Lawlor – </span><span class="illinois-orange-text">Under-Secretary-General of Simulations</span></span><br>
@@ -76,6 +81,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/gordon.jpg">
+<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
    <span class="secmember"><span class="illinois-blue-text">Gordon Young – </span><span class="illinois-orange-text">President of the General Assembly</span></span><br>
@@ -87,6 +93,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/will.jpg">
+<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
  <span class="secmember"><span class="illinois-blue-text">William Armiros – </span><span class="illinois-orange-text">Under-Secretary-General of Rules and Procedures</span></span><br>
@@ -110,6 +117,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/archit.jpg">
+<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
 
@@ -122,6 +130,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/drew.jpg">
+<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
 
@@ -134,6 +143,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/caroline.jpg">
+<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
 <span class="secmember"><span class="illinois-blue-text">Caroline Hsu – </span><span class="illinois-orange-text">Under-Secretary-General of Merchandising and Public Relations</span></span><br>
@@ -145,6 +155,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/rebecca.jpg">
+<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
 <span class="secmember"><span class="illinois-blue-text">Rebecca Gorski – </span><span class="illinois-orange-text">Deputy Under-Secretary-General of Merchandising and Public Relations</span></span><br>
@@ -156,6 +167,7 @@
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/yash.jpg">
+<br><small style="font-size: 10px;">Photo: Andrew Bonsu</small>
         </div>
         <div class="col-lg-10">
 <span class="secmember"><span class="illinois-blue-text">Yash Tyagi – </span><span class="illinois-orange-text">Under-Secretary-General of Publications and Design</span></span><br>
