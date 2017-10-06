@@ -8,6 +8,7 @@
         display: block;
         padding-bottom: 18px;
     }
+    .col-lg-2 { padding-bottom: 35px; }
 </style>
 <header class="imageheader secheader">
     <div class="header-content">
