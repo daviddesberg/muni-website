@@ -101,6 +101,7 @@
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div> <!-- Carousel -->
+		<h6>Photos &copy; 2017 Hannah Auten</h6>
 <hr>
                 <h1>Award Winners</h1>
                 <h2 class="illinois-orange-text">Delegation Award Winners</h2>
@@ -169,8 +170,8 @@
 		        </ul>
 		        <h3>International Press Delegation</h3>
 		        <ul style="list-style-type: none;">
-                    <li>Best Delegate: Kavitha Babu: Washington Post (Pewaukee)</li>
-                    <li>Verbal Commendation: Alexandra Chaidez: The Moscow Times (St. Ignatius)</li>
+                    <li>Best Delegate: Washington Post (Pewaukee)</li>
+                    <li>Verbal Commendation: The Moscow Times (St. Ignatius)</li>
 		        </ul>
 		        <h3>Ad-Hoc: Colonization of Mars</h3>
 		        <ul style="list-style-type: none;">
