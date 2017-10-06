@@ -174,11 +174,11 @@ aside {
 }
 
 .mainheader {
-    background-image: url('../images/maincover2.jpg');
+    background-image: url('../images/new/main.jpg');
 }
 
 .secheader{
-    background-image: url('../images/secretariat.jpg');
+    background-image: url('../images/new/secretariat.jpg');
 }
 
 .whoweare{
@@ -191,16 +191,25 @@ aside {
 }
 
 .scheduleheader{
-    background-image: url('../images/snowwalk.jpg');
+    background-image: url('../images/new/schedule.jpg');
 
 }
 
+.gaheader {
+    background-image: url('../images/new/ga_com.jpg');
+}
+
+.ipdheader {
+    background-image: url('../images/new/ipd.jpg');
+}
+
+
 .committeeheader{
-    background-image: url('../images/follinger.jpg');
+    background-image: url('../images/new/committees_main.jpg');
 }
 
 .crisisheader {
-    background-image: url('../images/enghall.jpg');
+    background-image: url('../images/new/crisis_com.jpg');
 }
 
 .crisisgaheader {
@@ -210,17 +219,22 @@ aside {
 }
 
 .registrationheader{
-    background-image: url('../images/almamater.jpg');
+    background-image: url('../images/new/registration.jpg');
+
+}
+
+.mediaheader{
+    background-image: url('../images/new/media.jpg');
 
 }
 
 .sponsorshipheader{
-    background-image: url('../images/footballstadium.jpg');
+    background-image: url('../images/new/sponsorship.jpg');
 
 }
 
 .contactheader{
-    background-image: url('../images/squirel.jpg');
+    background-image: url('../images/new/contact.jpg');
 
 }
 

@@ -1,6 +1,6 @@
 <?php require_once('../incl/header.php'); ?>
 
-<header class="imageheader hotelheader">
+<header class="imageheader ipdheader">
     <div class="header-content">
         <div class="header-content-inner">
             <h1 id="main-heading"><span >International Press Delegation</span></h1>

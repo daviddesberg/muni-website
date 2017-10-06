@@ -1,6 +1,6 @@
 <?php require_once('../incl/header.php'); ?>
 
-<header class="imageheader committeeheader">
+<header class="imageheader gaheader">
     <div class="header-content">
         <div class="header-content-inner">
             <h1 id="main-heading"><span>General Assembly/Crisis-GA Committees</span></h1>

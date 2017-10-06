@@ -9,6 +9,7 @@
                 <a href="contact.php"><i class="fa fa-envelope fa-3x" aria-hidden="true"></i></a>
                 <hr>
                 <h6>&copy; Copyright 2017 Model United Nations Illinois</h6>
+		<h6>Photos &copy; 2017 Andrew Bonsu</h6>
             </div>
         </div>
     </div>
