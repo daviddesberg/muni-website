@@ -66,6 +66,7 @@ if(isset($_GET['c'])) {
     die();
 }
 // so shitty
+//yep
 $data = file_get_contents("./committee_data/{$cid}.json");
 $data = json_decode($data, true);
 
