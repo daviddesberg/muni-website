@@ -37,14 +37,14 @@
 <hr>
             <h2>Committees</h2>
 		<ul style="list-style-type: square; font-size: 18px;">
-		    <li>Ad-Hoc Committee of the Secretary-General</li>
-            <li>Joint Crisis Committee: The Taiping Rebellion</li>
-            <li>United Nations Security Council</li>
-            <li>The Truman Cabinet</li>
-            <li>Enron Board of Directors</li>
-            <li>Victorian London: Metropolitan Board of Works</li>
-            <li>The Münster Rebellion</li>
-            <li>Feudal Japan</li>
+		    <li><a href = "crisispage.php/ad-hoc">Ad-Hoc Committee of the Secretary-General</a></li>
+            <li><a href = "crisispage.php/taipingjcc">Joint Crisis Committee: The Taiping Rebellion</a></li>
+            <li><a href = "crisispage.php/unsc">United Nations Security Council</a></li>
+            <li><a href = "crisispage.php/truman">The Truman Cabinet</a></li>
+            <li><a href = "crisispage.php/enron">Enron Board of Directors</a></li>
+            <li><a href = "crisispage.php/victorian_london">Victorian London: Metropolitan Board of Works</a></li>
+            <li><a href = "crisispage.php/munster_rebellion">The Münster Rebellion</a></li>
+            <li><a href = "crisispage.php/Feudal_Japan">Feudal Japan</a></li>
         </ul>
             </div>
             <hr>
@@ -66,7 +66,6 @@ if(isset($_GET['c'])) {
     die();
 }
 // so shitty
-//yep
 $data = file_get_contents("./committee_data/{$cid}.json");
 $data = json_decode($data, true);
 
