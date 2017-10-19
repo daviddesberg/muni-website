@@ -37,14 +37,14 @@
 <hr>
             <h2>Committees</h2>
 		<ul style="list-style-type: square; font-size: 18px;">
-		    <li><a href = "crisispage.php/ad-hoc">Ad-Hoc Committee of the Secretary-General</a></li>
-            <li><a href = "crisispage.php/taipingjcc">Joint Crisis Committee: The Taiping Rebellion</a></li>
-            <li><a href = "crisispage.php/unsc">United Nations Security Council</a></li>
-            <li><a href = "crisispage.php/truman">The Truman Cabinet</a></li>
-            <li><a href = "crisispage.php/enron">Enron Board of Directors</a></li>
-            <li><a href = "crisispage.php/victorian_london">Victorian London: Metropolitan Board of Works</a></li>
-            <li><a href = "crisispage.php/munster_rebellion">The Münster Rebellion</a></li>
-            <li><a href = "crisispage.php/Feudal_Japan">Feudal Japan</a></li>
+		    <li><a href = "crisispage.php?c=ad-hoc">Ad-Hoc Committee of the Secretary-General</a></li>
+            <li><a href = "crisispage.php?c=taipingjcc">Joint Crisis Committee: The Taiping Rebellion</a></li>
+            <li><a href = "crisispage.php?c=unsc">United Nations Security Council</a></li>
+            <li><a href = "crisispage.php?c=truman">The Truman Cabinet</a></li>
+            <li><a href = "crisispage.php?c=enron">Enron Board of Directors</a></li>
+            <li><a href = "crisispage.php?c=victorian_london">Victorian London: Metropolitan Board of Works</a></li>
+            <li><a href = "crisispage.php?c=munster_rebellion">The Münster Rebellion</a></li>
+            <li><a href = "crisispage.php?c=Feudal_Japan">Feudal Japan</a></li>
         </ul>
             </div>
             <hr>
