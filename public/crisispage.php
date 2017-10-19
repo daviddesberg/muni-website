@@ -1,7 +1,7 @@
 <?php
 $cid = -1;
 if(isset($_GET['c'])) {
-    $cid = preg_replace("/[^a-zA-Z0-9]+/", "", $_GET['c']);
+    $cid = preg_replace("/[^a-zA-Z0-9_]+/", "", $_GET['c']);
     if(strlen($cid) > 25) {
         die();
     }
