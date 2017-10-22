@@ -38,7 +38,8 @@
             <h2>Committees</h2>
 		<ul style="list-style-type: square; font-size: 18px;">
 		    <li>Ad-Hoc Committee of the Secretary-General (details coming soon)</li>
-            <li><a href = "crisispage.php?c=taipingjcc">Joint Crisis Committee: The Taiping Rebellion</a></li>
+            <li><a href = "crisispage.php?c=taiping_jcc">Joint Crisis Committee: The Taiping Rebellion</a></li>
+            <li><a href = "crisispage.php?c=qing_jcc">Joint Crisis Committee: All Under Heaven: The Imperial Court of the Great Qing</a></li>
             <li><a href = "crisispage.php?c=unsc">United Nations Security Council</a></li>
             <li><a href = "crisispage.php?c=truman">The Truman Cabinet</a></li>
             <li><a href = "crisispage.php?c=enron">Enron Board of Directors</a></li>
