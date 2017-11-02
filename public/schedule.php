@@ -27,7 +27,7 @@
                     <tr>
                         <td>Registration</td>
                         <td>12:00pm-5:00pm</td>
-                        <td>Hotel TBD</td>
+                        <td>Garden Inn / Homewood / Home2</td>
                     </tr>
                     <tr>
                         <td>Busing to Conference</td>
@@ -112,7 +112,7 @@
                     <tr>
                         <td>Delegate Dance</td>
                         <td>11:00pm-1:00am</td>
-                        <td>Hotel TBD</td>
+                        <td>Garden Inn / Homewood / Home2</td>
                     </tr>
                     <tr style="display: none;"></tr>
                     <tr>
