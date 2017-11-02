@@ -30,11 +30,15 @@
                 experience has inspired me to transform the committees at MUNI this year such that every
                 delegate walks away from committee with the same sense of knowledge gained. From the
                 General Assembly, our vision is to have delegates focus and obtain the following goals:
+                </p>
+                <p>
                 <ul style="list-style-type:bullets;font-size:16px">
                     <li>Gain a new unique sense of relevant world issues from a truly immersive experience</li>
                     <li>Be able to view these issues from a unique perspective</li>
                     <li>Learn what must be done in order to solve them</li>
                 </ul>  
+                </p>
+                <p>
                 Our other goal this year for our committees in general is to help all the delegates develop skills,
                 that not only will help them in future conferences, but will help them succeed at other things in
                 life. We ensure this by only choosing our best and brightest members to help design and lead
@@ -42,11 +46,15 @@
                 them winning an award or not, walks away from the conference on Sunday having left their
                 comfort zone and put a new set of skills to the test. Our vision is to have every delegate
                 develop in the following ways:
+                </p>
+                <p>
                 <ul style="list-style-type:bullets;font-size:16px">
                     <li>Gain confidence and skill in professional speaking</li>
                     <li>Develop writing skills that will be put to the test in committee</li>
                     <li>Learn how to implement these skills in order to bring about success</li>
                 </ul>  
+                </p>
+                <p>
                 For anyone who is interested in more information on the General Assembly this year or Model
                 UN at Illinois in general, feel free to email me at pga@illinoismun.org.
                 </p>
