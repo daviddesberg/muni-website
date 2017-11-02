@@ -30,7 +30,7 @@
                 experience has inspired me to transform the committees at MUNI this year such that every
                 delegate walks away from committee with the same sense of knowledge gained. From the
                 General Assembly, our vision is to have delegates focus and obtain the following goals:
-                <ul style="list-style-type:bullets">
+                <ul style="list-style-type:bullets;font-size:16px">
                     <li>Gain a new unique sense of relevant world issues from a truly immersive experience</li>
                     <li>Be able to view these issues from a unique perspective</li>
                     <li>Learn what must be done in order to solve them</li>
@@ -42,7 +42,7 @@
                 them winning an award or not, walks away from the conference on Sunday having left their
                 comfort zone and put a new set of skills to the test. Our vision is to have every delegate
                 develop in the following ways:
-                <ul style="list-style-type:bullets">
+                <ul style="list-style-type:bullets;font-size:16px">
                     <li>Gain confidence and skill in professional speaking</li>
                     <li>Develop writing skills that will be put to the test in committee</li>
                     <li>Learn how to implement these skills in order to bring about success</li>
