@@ -32,9 +32,7 @@
                 Once you register for the conference and pay your school fee, you will then be sent the special code/link to book rooms at the hotel of your choosing with at the rate of $140. This means you should register soon and pay your school fee early to assure you secure rooms at the hotel of your choice! For delegations that have their school fee waived, this process does not apply.
                 </p>
                 
-                <a href  = "http://hiltongardeninn3.hilton.com/en/hotels/illinois/hilton-garden-inn-champaign-urbana-CMICHGI/index.html"> Hilton Garden Inn </a> <br>
-                <a href  = "http://homewoodsuites3.hilton.com/en/hotels/illinois/homewood-suites-by-hilton-champaign-urbana-CMIHWHW/index.html"> Homewood Suites </a> <br>
-                <a href  = "http://home2suites3.hilton.com/en/hotels/illinois/home2-suites-by-hilton-champaign-urbana-CMIURHT/index.html"> Home2 Suites </a> <br>
+                <a href  = "http://hiltongardeninn3.hilton.com/en/hotels/illinois/hilton-garden-inn-champaign-urbana-CMICHGI/index.html"> Hilton Garden Inn </a> &nbsp;&nbsp;&nbsp;&nbsp;<a href  = "http://homewoodsuites3.hilton.com/en/hotels/illinois/homewood-suites-by-hilton-champaign-urbana-CMIHWHW/index.html"> Homewood Suites </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href  = "http://home2suites3.hilton.com/en/hotels/illinois/home2-suites-by-hilton-champaign-urbana-CMIURHT/index.html"> Home2 Suites </a> <br>
             </div>
         </div>
     </div>
