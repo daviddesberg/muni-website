@@ -23,7 +23,7 @@
                 If you have any questions or concerns about committees at all, you can contact USG of Registration Danny Benson at <a href = “mailto:registration@illinoismun.org”>registration@illinoismun.org </a> You can also contact Mike or Gordon, their email address can be found on their respective pages. 
                 </p>
                 <p>
-                Be sure to like our Facebook Page <a href = “fb.me/munixxiii”>“Model United Nations at the University of Illinois” </a> to stay informed on our committee plans. Our posts in the coming months will be focusing in on interviews with directors (in which they will give special tips about how to do well in their committee) along with other committee related content like an early reveal of our Ad-Hoc committee! If your delegates ever need a quick way to get in contact with us, they can always message us through our FB page as well!
+                Be sure to like our Facebook Page <a href = “fb.me/munixxiii”>Model United Nations at the University of Illinois </a> to stay informed on our committee plans. Our posts in the coming months will be focusing in on interviews with directors (in which they will give special tips about how to do well in their committee) along with other committee related content like an early reveal of our Ad-Hoc committee! If your delegates ever need a quick way to get in contact with us, they can always message us through our FB page as well!
                 </p>
                 <p>
                     Best,<br>
