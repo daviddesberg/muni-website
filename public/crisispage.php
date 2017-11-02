@@ -16,7 +16,7 @@ $data = json_decode($data, true);
 ?>
 <?php require_once('../incl/header.php'); ?>
 
-<header class="imageheader crisisheader">
+<header class="imageheader "+ $data['image']+"_header">
     <div class="header-content">
         <div class="header-content-inner">
             <h1 id="main-heading"><span><?php echo $data['title']; ?></span></h1>

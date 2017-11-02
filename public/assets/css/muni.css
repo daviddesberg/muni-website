@@ -238,6 +238,34 @@ aside {
 
 }
 
+.ad-hoc_header{
+    background-image: url('../images/crisis/crisis_com.jpg');
+}
+.enron_header{
+    background-image: url('../images/crisis/enron.jpg');
+}
+.feudal_header{
+    background-image: url('../images/crisis/sunrise_land.jpg');
+}
+.munster_header{
+    background-image: url('../images/crisis/munster.jpg');
+}
+.qing_header{
+    background-image: url('../images/crisis/qing.jpg');
+}
+.taiping_header{
+    background-image: url('../images/crisis/taiping.jpg');
+}
+.truman_header{
+    background-image: url('../images/crisis/truman.jpg');
+}
+.unsc_header{
+    background-image: url('../images/crisis/unsc.jpg');
+}
+.london_header{
+    background-image: url('../images/crisis/london.jpg');
+}
+
 .imageheader .header-content .header-content-inner h1 {
     font-weight: 700;
     text-transform: uppercase;
