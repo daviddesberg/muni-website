@@ -22,12 +22,14 @@
                 <p>
                 This year the Department of Simulations is striving to be better than it ever has been before!
                 The crisis committees run by Department of Simulations has always been a branch of MUNI that has taken on many different roles whether it be presenting modern topics or representing historical governments.  While all committees at MUNI strive to provide an educational and entertaining experience when it comes to crisis committees an entirely different aspect rears its head.  Delegates are forced to quickly adapt to situations as they arise and use the resources that are available to them both as characters and as a body.  This year will be my third time serving in the Department of Simulations and as its leader I am striving to bring my own vision of what a crisis committee should be to life.   Committees this year will touch on both contemporary and historical topics that are regularly overlooked by most educational systems.  A main change that I have made in order to further the educational goals this year is that all background guides will be filled with extensive academic citations because it is my belief that the best MUN experiences come when committees are grounded in realism.  In addition to my educational goals skill development has always been an integral part of the Department of Simulations.  In addition to the educational aspects skill development is also very important to not only me but also MUNI as a whole.  Delegates can expect to learn how to:
-                <ul style="list-style-type:bullets">
+                </p>
+                    <ul style="list-style-type:bullets">
                     <li>React swiftly and decisively to problems</li>
                     <li>Work within the confines of their setting</li>
                     <li>Utilize any and all resources at their disposal</li>
                     <li>Negotiate and compromise in situations where it may not seem possible at first</li>
                 </ul>  
+                <p>
                 Lastly, by selecting the best and brightest directors that Illinois Model United Nations has to offer the crisis committees of MUNI XXIII are guaranteed to be both invigorating and academically stimulating.
                 While my vision for the department will be reflected in each committee the directors also have their own specific goals that they aim to accomplish which is articulated in their personal letters that can be seen under the “committees” tab.  I cannot wait till March to see my vision for the department become reality and I hope to see everyone who has read this letter there.  Feel free to contact me with any questions at simulations@illinoismun.org
                 </p>
