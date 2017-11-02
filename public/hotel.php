@@ -11,7 +11,7 @@
 <section>
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            <div>
                 <h1>Hotel</h1>
                 <p>
                 We are pleased to announce that we have partnered with Hilton for our official hotels this year! This year, we have set our sights on assuring our conference not only improves in educational and skill development value, but in overall comfort and experience as well. In partnering with Hilton, we believe we have achieved this goal. There are three hotels that we have partnered with. They are: the Hilton Garden Inn, the Homewood Suites by Hilton, and the Home2 Suites by Hilton all located in Champaign. The primary reason we chose to partner with multiple hotels is to provide each delegation with the opportunity to select what works best for them. Each hotel is unique in what they offer from room types to overall atmosphere but they all have a common denominator in comfort and quality customer service.
