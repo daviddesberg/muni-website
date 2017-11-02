@@ -1,8 +1,9 @@
 {
   "title": "DISEC",
-  "director": "Nathan Wang",
+  "director": "Tushar Jain",
   "email": "nkw8889@gmail.com",
-  "bio": "",
+  "image":"disec_header",
+  "bio": "It is a tremendous honor and privilege to welcome you to MUNI 2018. My name is Tushar Jain, and I will be serving as your Director for the Disarmament and International Security Committee. I am a student at the University of Illinois at Urbana-Champaign, pursuing Computer Science + Anthropology. My interests range from, Swimming, gaming (AC is Love), watching shows (BIG GoT Fan), quizzing, debating, coding and MUNning. I have been involved in Model UN for the past two years, making me a part of over 20 MUNs and serving as the Secretary General of my highschool MUN.",
   "topics": ["Combatting Piracy", "Sustainable Space Demilitarization", "Private Military Companies"],
   "description": "The Disarmament and International Security Committee is one of the central committees of the United Nations, employed to discuss some of the most pressing issues regarding the security and safety of the international community. The topics discussed in this committee are meant to challenge you as a delegate to represent your country and their interests as best you can, to research and create imaginative but feasible plans, and to expose you to the complexities of the world around us and the many problems we face in committee are ones that stump even the most experienced minds of the UN. Hopefully this committee proves to be a enjoyable learning experience that will leave you all with fond memories and a level of understanding of the problems our world constantly handles on a regular basis."
 }

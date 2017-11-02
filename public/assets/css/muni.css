@@ -265,6 +265,20 @@ aside {
 .london_header{
     background-image: url('../images/new/london.jpg');
 }
+.ecosoc_header{
+    background-image: url('../images/new/ecosoc.jpeg');
+}
+.sochum_header{
+    background-image: url('../images/new/sochum.jpeg');
+}
+.disec_header{
+    background-image: url('../images/new/disec.jpeg');
+}
+.unhrc_header{
+    background-image: url('../images/new/unhrc.jpeg');
+}
+
+
 
 .imageheader .header-content .header-content-inner h1 {
     font-weight: 700;
