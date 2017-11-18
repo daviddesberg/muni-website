@@ -38,6 +38,10 @@ $data = json_decode($data, true);
                 <p>
                 <?php echo $data['description']; ?>
                 </p>
+                <h3>What Delegates will gain</h3>
+                <p>
+                <?php echo $data['delegates_gain']; ?>
+                </p>
                 <h3>Crisis Director: <?php echo $data['director']; ?></h3>
                 <p>
                     <?php echo $data['bio']; ?>
