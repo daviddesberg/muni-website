@@ -41,7 +41,7 @@
 <hr>
             <h2>Committees</h2>
 		<ul style="list-style-type: square; font-size: 18px;">
-		    <li>Ad-Hoc Committee of the Secretary-General (details coming soon)</li>
+		    <li><a href = "adhoc.php">Ad-Hoc Committee of the Secretary-General</a></li>
             <li><a href = "crisispage.php?c=taiping_jcc">Joint Crisis Committee: All Under Heaven: The Royal Court of the Taiping Heavenly Kingdom</a></li>
             <li><a href = "crisispage.php?c=qing_jcc">Joint Crisis Committee: All Under Heaven: The Imperial Court of the Great Qing</a></li>
             <li><a href = "crisispage.php?c=unsc">United Nations Security Council</a></li>

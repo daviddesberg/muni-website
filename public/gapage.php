@@ -49,6 +49,7 @@ if($cid == "ilga" || $cid == "1917duma") {
                 <p>
                     <?php echo $data['description']; ?>
                 </p>
+                <h3>Director</h3>
                 <p>
                     <?php echo $data['bio']; ?>
                 </p>
