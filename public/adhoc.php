@@ -13,7 +13,7 @@
             <div class="col-lg-12" style="text-align: left;">
                 <div class="row">
                     <div class="col-lg-12" style="text-align: center;">
-                        <a href="assets/guides/mars.pdf" class="btn btn-primary" style="background-color: #002058;">Background Guide</a>
+                        <!-- <a href="assets/guides/mars.pdf" class="btn btn-primary" style="background-color: #002058;">Background Guide</a> -->
                     </div>
                 </div>
                 <h3><span class="illinois-blue-text">Letter from the Secretary-General:<span class="illinois-orange-text"></span></h3>
