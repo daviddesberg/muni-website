@@ -314,12 +314,12 @@ aside {
         margin-left: auto;
         margin-right: auto;
     }
-    .imageheader .header-content .ad-header-content-inner {
+    /* .imageheader .header-content .ad-header-content-inner {
         position: absolute;
         top: 0; 
         width: 1400px; 
         text-align:top;
-    }
+    } */
     .imageheader .header-content .header-content-inner h1 {
         font-size: 50px;
     }
