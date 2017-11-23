@@ -316,11 +316,17 @@ aside {
     }
     .imageheader .header-content .ad-header-content-inner {
         max-width: 1400px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 999;
+        width: 100%;
+        height: 23px;
         /* margin-left: auto;
-        margin-right: auto; */
+        margin-right: auto;
         position: fixed;
         top: 0%;
-        left: 2%;
+        left: 2%; */
     }
     .imageheader .header-content .header-content-inner h1 {
         font-size: 50px;
