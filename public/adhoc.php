@@ -26,7 +26,6 @@
                 Secretary-General | MUNI XXIII
                 </p>
                 <h3>Crisis Director: Vikram Sardana</h3>
-                <h3>Email: vsardan2@illinois.edu</h3>
                 <p>
                 So, you’re in Ad-Hoc! Congratulations, and welcome to the most challenging committee you’ll have ever been in.
                 </p>
@@ -71,6 +70,7 @@
                 Vikram Sardana<br> 
                 Ad-Hoc Committee Director | MUNI XXIII
                 </p>
+                <h3>Email: vsardan2@illinois.edu</h3>
             </div>
         </div>
     </div>
