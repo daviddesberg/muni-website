@@ -318,9 +318,10 @@ aside {
         max-width: 1400px;
         margin-left: auto;
         margin-right: auto;
-        /* position: fixed; */
+        margin-top: auto;
+        /* position: fixed;
         top: 0;
-        left: 0;
+        left: 0; */
     }
     .imageheader .header-content .header-content-inner h1 {
         font-size: 50px;
