@@ -1,13 +1,10 @@
 <?php require_once('../incl/header.php'); ?>
 
 <header class="imageheader ad-hoc_header">
-<div class="header-content-inner">
+    <div class="header-content">
+        <div class="ad-header-content-inner">
             <h1 id="main-heading"><span><em><em>Ad Hoc</em></em> Committee of the Secretary-General</span></h1>
         </div>
-    <div class="header-content">
-        <!-- <div class="ad-header-content-inner">
-            <h1 id="main-heading"><span><em><em>Ad Hoc</em></em> Committee of the Secretary-General</span></h1>
-        </div> -->
     </div>
 </header>
 <section>

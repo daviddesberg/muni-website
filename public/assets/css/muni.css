@@ -315,15 +315,10 @@ aside {
         margin-right: auto;
     }
     .imageheader .header-content .ad-header-content-inner {
-        max-width: 1400px;
-        position: fixed;
-        top: 0;
-        z-index: 999;
-        /* margin-left: auto;
-        margin-right: auto;
-        position: fixed;
-        top: 0%;
-        left: 2%; */
+        position: absolute;
+        top: 0; 
+        width: 1400px; 
+        text-align:top;
     }
     .imageheader .header-content .header-content-inner h1 {
         font-size: 50px;
