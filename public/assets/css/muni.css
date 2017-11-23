@@ -316,8 +316,8 @@ aside {
     }
     .imageheader .header-content .ad-header-content-inner {
         max-width: 1400px;
-        margin-left: auto;
-        margin-right: auto;
+        /* margin-left: auto;
+        margin-right: auto; */
         position: fixed;
         top: 2%;
         left: 2%;
