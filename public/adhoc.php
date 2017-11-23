@@ -2,7 +2,7 @@
 
 <header class="imageheader ad-hoc_header">
     <div class="header-content">
-        <div class="header-content-inner">
+        <div class="header-content-inner", style="text-align: top;">
             <h1 id="main-heading"><span><em><em>Ad Hoc</em></em> Committee of the Secretary-General</span></h1>
         </div>
     </div>
