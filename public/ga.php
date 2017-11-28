@@ -66,11 +66,12 @@
 		<hr>
         <h2>Committees</h2>
 		<ul style="list-style-type: square; font-size: 18px;">
-            <li>United States Senate</li>
-			<li>Economic and Social Council</li>
-			<li>Human Rights Council</li>
+            <li><a href = "gapage.php?c=senate">United States Senate</a></li>
+			<li><a href = "gapage.php?c=ecosoc">Economic and Social Council</a></li>
+			<li><a href = "gapage.php?c=unhrc">Human Rights Council</a></li>
             <li><a href = "gapage.php?c=disec">Disarmament and International Security</a></li>
-			<li>Three more committees to be revealed in the coming weeks!</li>
+			<li><a href = "gapage.php?c=ecofin">Economic and Financial Affairs Council</a></li>
+            <li><a href = "gapage.php?c=sochum"></a>Social, Humanitarian, and Cultural Committee</li>
 		</ul>
 
             </div>
