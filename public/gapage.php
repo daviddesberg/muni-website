@@ -13,9 +13,7 @@ if(isset($_GET['c'])) {
 $data = file_get_contents("./committee_data/ga/{$cid}.json");
 $data = json_decode($data, true);
 $headerclass = "committeeheader";
-if($cid == "ilga" || $cid == "1917duma") {
-    $headerclass="crisisgaheader";
-}
+
 ?>
 <?php require_once('../incl/header.php'); ?>
 
