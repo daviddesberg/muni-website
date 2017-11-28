@@ -71,7 +71,7 @@
 			<li><a href = "gapage.php?c=unhrc">Human Rights Council</a></li>
             <li><a href = "gapage.php?c=disec">Disarmament and International Security</a></li>
 			<li><a href = "gapage.php?c=ecofin">Economic and Financial Affairs Council</a></li>
-            <li><a href = "gapage.php?c=sochum"></a>Social, Humanitarian, and Cultural Committee</li>
+            <li><a href = "gapage.php?c=sochum">Social, Humanitarian, and Cultural Committee</a></li>
 		</ul>
 
             </div>
