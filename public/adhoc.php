@@ -1,8 +1,8 @@
 <?php require_once('../incl/header.php'); ?>
 
 <header class="imageheader ad-hoc_header">
-    <div class="header-content">
-        <div class="header-content-inner", style="text-align: top;">
+    <div class="header-content" style="top: 20% !important;">
+        <div class="header-content-inner">
             <h1 id="main-heading"><span><em><em>Ad Hoc</em></em> Committee of the Secretary-General</span></h1>
         </div>
     </div>
@@ -13,12 +13,12 @@
             <div class="col-lg-12" style="text-align: left;">
                 <div class="row">
                     <div class="col-lg-12" style="text-align: center;">
-                        <!-- <a href="assets/guides/mars.pdf" class="btn btn-primary" style="background-color: #002058;">Background Guide</a> -->
+                        <!-- <a href="assets/guides/no.pdf" class="btn btn-primary" style="background-color: #002058;">Background Guide</a> -->
                     </div>
                 </div>
                 <h3><span class="illinois-blue-text">Letter from the Secretary-General:<span class="illinois-orange-text"></span></h3>
                 <p>
-                With last year’s inaugural edition of the Ad-Hoc Committee of the Secretary-General, Red Alert 2047: The Colonization of Mars, I believe we added a valuable aspect to our conference. Last year’s director, Drew Maikisch, who is now serving as USG of Logistics and Operations, executed our most elite committee we’ve ever had the pleasure of running for your delegates. This year, we wanted to top that. Director Vikram Sardana, the head delegate of our travel team, has proven that he is up to the challenge. As you read his letter, it should become clear that this will in no way be a typical crisis committee. Committee information, positions, and the background guide and any other substantive information will not be released until a week before the conference at the earliest. Most information will be released a day before or day of. However, we will be sending out some very cryptic updates regarding the simulation in the few weeks leading up to conference that you will be asked to forward to your delegates. To advisors: put only your most elite delegates into this committee. It is sure to be the most difficult committee that they have ever experienced. To delegates: good luck — you’ll need it. Also, if you know people in our organization that you went to highschool with, don’t bother asking them the Ad-Hoc topic. They don’t know it and we on Secretariat won’t be thrilled about you trying to get ahead that way.
+                With last year’s inaugural edition of the Ad-Hoc Committee of the Secretary-General, Red Alert 2047: The Colonization of Mars, I believe we added a valuable aspect to our conference. Last year’s director, Drew Maikisch, who is now serving as USG of Logistics and Operations, executed our most elite committee we’ve ever had the pleasure of running for your delegates. This year, we wanted to top that. Director Vikram Sardana, the head delegate of our travel team, has proven that he is up to the challenge. As you read his letter, it should become clear that this will in no way be a typical crisis committee. Committee information, positions, and the background guide and any other substantive information will not be released until a week before the conference at the earliest. Most information will be released a day before or day of. However, we will be sending out some very cryptic updates regarding the simulation in the few weeks leading up to conference that you will be asked to forward to your delegates. To advisors: put only your most elite delegates into this committee. It is sure to be the most difficult committee that they have ever experienced. To delegates: good luck — you’ll need it. Also, if you know people in our organization that you went to high school with, don’t bother asking them the Ad-Hoc topic. They don’t know it and we on Secretariat won’t be thrilled about you trying to get ahead that way.
                 </p>
                 <p> 
                 Best,<br>
