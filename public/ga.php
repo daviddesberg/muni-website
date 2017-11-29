@@ -70,7 +70,7 @@
 			<li><a href = "gapage.php?c=ecosoc">Economic and Social Council</a></li>
 			<li><a href = "gapage.php?c=unhrc">Human Rights Council</a></li>
             <li><a href = "gapage.php?c=disec">Disarmament and International Security</a></li>
-			<li><a href = "gapage.php?c=ecofin_pls_work">Economic and Financial Affairs Council</a></li>
+			<li><a href = "gapage.php?c=ecofin.json">Economic and Financial Affairs Council</a></li>
             <li><a href = "gapage.php?c=sochum">Social, Humanitarian, and Cultural Committee</a></li>
 		</ul>
 
