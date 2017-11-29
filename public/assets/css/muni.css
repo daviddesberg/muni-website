@@ -265,17 +265,25 @@ aside {
 .london_header{
     background-image: url('../images/new/london.jpg');
 }
+
 .ecosoc_header{
-    background-image: url('../images/new/ecosoc.jpeg');
+    background-image: url('../images/new/ecosoc.jpg');
 }
 .sochum_header{
-    background-image: url('../images/new/sochum.jpeg');
+    background-image: url('../images/new/sochum.jpg');
 }
 .disec_header{
-    background-image: url('../images/new/disec.jpeg');
+    background-image: url('../images/new/disec.jpg');
 }
 .unhrc_header{
     background-image: url('../images/new/unhrc.jpeg');
+}
+.ecofin_header{
+    background-image: url('../images/new/ecofin_1.jpg');
+}
+.senate_header{
+    /* background-image: url('../images/new/unhrc.jpeg'); */
+    background-image: url('../images/new/committees_main.jpg');
 }
 
 

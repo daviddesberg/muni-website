@@ -12,7 +12,7 @@ if(isset($_GET['c'])) {
 // so shitty
 $data = file_get_contents("./committee_data/ga/{$cid}.json");
 $data = json_decode($data, true);
-$headerclass = "committeeheader";
+$headerclass = $data['image'];
 
 ?>
 <?php require_once('../incl/header.php'); ?>
