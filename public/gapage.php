@@ -10,7 +10,7 @@ if(isset($_GET['c'])) {
     die();
 }
 // so shitty
-$data = file_get_contents("./committee_data/ga/{$cid}.json");
+$data = file_get_contents("./committee_data/ga/ecofin.json");
 $data = json_decode($data, true);
 $headerclass = "committeeheader";
 
