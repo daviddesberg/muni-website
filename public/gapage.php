@@ -34,8 +34,6 @@ $headerclass = $data['image'];
         </div> -->
         <div class="row">
             <div class="col-lg-12" style="text-align: left;">
-                <h3>Director: <?php echo $data['director']; ?></h3>
-                <h3>Email: <?php echo $data['email']; ?></h3>
                 <h3>Topics</h3>
                 <p>
                 <?php
@@ -48,10 +46,11 @@ $headerclass = $data['image'];
                 <p>
                     <?php echo $data['description']; ?>
                 </p>
-                <h3>Director</h3>
+                <h3>Director: <?php echo $data['director']; ?></h3>
                 <p>
                     <?php echo $data['bio']; ?>
                 </p>
+                <h3>Email: <?php echo $data['email']; ?></h3>
             </div>
         </div>
     </div>
