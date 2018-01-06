@@ -104,7 +104,7 @@
                     </span>
         </div>
     </div>
-    <div class="row">
+    <!-- <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/david.jpg">
         </div>
@@ -114,7 +114,7 @@
                         I am a senior at the University of Illinois pursuing a degree in Computer Science. I have been involved with Model United Nations since my sophomore year of high school, and MUNI XXIII marks the third time I have served on Secretariat. My goal is to ensure that every technology-related component of the conference &mdash; from the web site, to the registration process, to printing during the weekend of the conference &mdash; runs as smoothly as possible. Outside of Model UN, I enjoy playing basketball, listening to music, and crafting memes.
                     </span>
         </div>
-    </div>
+    </div> -->
     <div class="row">
         <div class="col-lg-2">
             <img class="img-thumbnail" width="180" src="/assets/images/new/headshots/archit.jpg">
@@ -122,7 +122,7 @@
         </div>
         <div class="col-lg-10">
 
-                    <span class="secmember"><span class="illinois-blue-text">Archit Gupta – </span><span class="illinois-orange-text">Deputy Under-Secretary-General of Technology Operations</span></span><br>
+                    <span class="secmember"><span class="illinois-blue-text">Archit Gupta – </span><span class="illinois-orange-text">Under-Secretary-General of Technology Operations</span></span><br>
                     <span class="bio">
                         I’m a Sophomore pursuing a Computer Science and Astronomy degree. This is my first year on MUNI Secretariat and I’m serving as the Deputy Under-Secretary-General of Technology Operations. I’m also an avid gamer and a Real Madrid fan.
                     </span>
