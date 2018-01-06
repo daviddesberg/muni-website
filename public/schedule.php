@@ -31,12 +31,12 @@
                     </tr>
                     <tr>
                         <td>Busing to Conference</td>
-                        <td>5:30pm-6:30pm</td>
+                        <td>5:30pm-6:15pm</td>
                         <td>Hotel to Campus</td>
                     </tr>
                     <tr>
                         <td>Dinner</td>
-                        <td>6:00pm-7:00pm</td>
+                        <td>5:45pm-7:15pm</td>
                         <td>Campus</td>
                     </tr>
                     <tr>
@@ -56,7 +56,7 @@
                     </tr>
                     <tr>
                         <td>Busing to Hotel</td>
-                        <td>11:15pm-12:15am</td>
+                        <td>11:15pm-12:00am</td>
                         <td>Campus to Hotel</td>
                     </tr>
                     <tr>
@@ -66,12 +66,12 @@
                     </tr>
                     <tr>
                         <td>Busing to Conference</td>
-                        <td>8:00am-9:00am</td>
+                        <td>8:00am-8:45am</td>
                         <td>Hotel to Campus</td>
                     </tr>
                     <tr>
                         <td>Committee Session II</td>
-                        <td>9:30am-12:30pm</td>
+                        <td>9:00am-12:30pm</td>
                         <td>David Kinley Hall/Wohlers Hall</td>
                     </tr>
                     <tr>
@@ -96,7 +96,7 @@
                     </tr>
                     <tr>
                         <td>Committee Session IV</td>
-                        <td>7:00pm-10:00pm</td>
+                        <td>6:45pm-9:45pm</td>
                         <td>David Kinley Hall/Wohlers Hall</td>
                     </tr>
                     <tr>
@@ -106,12 +106,12 @@
                     </tr>
                     <tr>
                         <td>Busing to Hotel</td>
-                        <td>10:15pm-11:15pm</td>
+                        <td>10:00pm-10:45pm</td>
                         <td>Campus to Hotel</td>
                     </tr>
                     <tr>
-                        <td>Delegate Dance</td>
-                        <td>11:00pm-1:00am</td>
+                        <td>Delegate Social Events</td>
+                        <td>10:30pm-12:00am</td>
                         <td>Garden Inn / Homewood / Home2</td>
                     </tr>
                     <tr style="display: none;"></tr>
@@ -122,7 +122,7 @@
                     </tr>
                     <tr>
                         <td>Busing to Conference</td>
-                        <td>8:30am-9:30am</td>
+                        <td>9:00am-9:45am</td>
                         <td>Hotel to Campus</td>
                     </tr>
                     <tr>
@@ -137,12 +137,12 @@
                     </tr>
                     <tr>
                         <td>Closing Ceremonies</td>
-                        <td>12:15pm-1:45pm</td>
+                        <td>12:15pm-1:30pm</td>
                         <td>Lincoln Hall Theater</td>
                     </tr>
                     <tr>
                         <td>Busing to Hotel</td>
-                        <td>2:00pm-3:00pm</td>
+                        <td>1:45pm-2:30pm</td>
                         <td>Campus to Hotel</td>
                     </tr>
                 </table>
